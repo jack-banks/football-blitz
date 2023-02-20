@@ -1,0 +1,782 @@
+player,position,team,is_active,year_signed,years,value,apy,player_page,otc_id,height,weight,college,draft_year,draft_round,draft_overall,draft_team
+Aaron Donald,IDL,Rams,TRUE,2018,6,135000000,22500000,https://overthecap.com/player/aaron-donald/2952/,2952,"6'0""",285,Pittsburgh,2014,1,13,Rams
+Leonard Williams,IDL,Giants,TRUE,2021,3,63000000,21000000,https://overthecap.com/player/leonard-williams/3854/,3854,"6'5""",302,USC,2015,1,6,Jets
+DeForest Buckner,IDL,Colts,TRUE,2020,4,84000000,21000000,https://overthecap.com/player/deforest-buckner/4720/,4720,"6'7""",291,Oregon,2016,1,7,NA
+Chris Jones,IDL,Chiefs,TRUE,2020,4,80000000,20000000,https://overthecap.com/player/chris-jones/4750/,4750,"6'6""",310,Mississippi State,2016,2,37,Chiefs
+Jonathan Allen,IDL,Commanders,TRUE,2021,4,72000000,18000000,https://overthecap.com/player/jonathan-allen/5601/,5601,"6'3""",286,Alabama,2017,1,17,Commanders
+Vita Vea,IDL,Buccaneers,TRUE,2021,4,71000000,17750000,https://overthecap.com/player/vita-vea/6897/,6897,"6'4""",347,Washington,2018,1,12,Buccaneers
+Kenny Clark,IDL,Packers,TRUE,2020,4,70000000,17500000,https://overthecap.com/player/kenny-clark/4739/,4739,"6'3""",314,UCLA,2016,1,27,Packers
+Cameron Heyward,IDL,Steelers,TRUE,2020,4,65600000,16400000,https://overthecap.com/player/cameron-heyward/1585/,1585,"6'5""",288,Ohio State,2011,1,31,Steelers
+Grady Jarrett,IDL,Falcons,TRUE,2022,3,49500000,16500000,https://overthecap.com/player/grady-jarrett/3985/,3985,"6'1""",304,Clemson,2015,5,137,Falcons
+J.J. Watt,IDL,Cardinals,TRUE,2021,2,28000000,14000000,https://overthecap.com/player/j-j-watt/1669/,1669,"6'5""",289,Wisconsin,2011,1,11,Texans
+Stephon Tuitt,IDL,Steelers,TRUE,2017,5,60000000,12000000,https://overthecap.com/player/stephon-tuitt/2985/,2985,"6'5""",304,Notre Dame,2014,2,46,Steelers
+Fletcher Cox,IDL,Eagles,TRUE,2022,1,14000000,14000000,https://overthecap.com/player/fletcher-cox/1824/,1824,"6'4""",300,Mississippi State,2012,1,12,Eagles
+D.J. Reader,IDL,Bengals,TRUE,2020,4,53000000,13250000,https://overthecap.com/player/d-j-reader/4879/,4879,"6'3""",327,Clemson,2016,5,166,Texans
+Javon Hargrave,IDL,Eagles,TRUE,2020,3,39000000,13000000,https://overthecap.com/player/javon-hargrave/4802/,4802,"6'1""",309,South Carolina State,2016,3,89,Steelers
+Dalvin Tomlinson,IDL,Vikings,TRUE,2021,2,21000000,10500000,https://overthecap.com/player/dalvin-tomlinson/5641/,5641,"6'3""",310,Alabama,2017,2,55,Giants
+Grover Stewart,IDL,Colts,TRUE,2020,3,30750000,10250000,https://overthecap.com/player/grover-stewart/5730/,5730,"6'5""",295,Albany State (GA),2017,4,144,Colts
+Shelby Harris,IDL,Seahawks,TRUE,2021,3,27000000,9000000,https://overthecap.com/player/shelby-harris/3174/,3174,"6'2""",288,Illinois State,2014,7,235,Raiders
+B.J. Hill,IDL,Bengals,TRUE,2022,3,30000000,10000000,https://overthecap.com/player/b-j-hill/6954/,6954,"6'4""",315,North Carolina State,2018,3,69,Giants
+Folorunso Fatukasi,IDL,Jaguars,TRUE,2022,3,30000000,10000000,https://overthecap.com/player/folorunso-fatukasi/7065/,7065,"6'4""",303,Connecticut,2018,6,180,Jets
+D.J. Jones,IDL,Broncos,TRUE,2022,3,30000000,10000000,https://overthecap.com/player/d-j-jones/5784/,5784,"6'1""",319,Mississippi,2017,6,198,NA
+David Onyemata,IDL,Saints,TRUE,2020,3,27000000,9000000,https://overthecap.com/player/david-onyemata/4833/,4833,"6'4""",300,Manitoba (Canada),2016,4,120,Saints
+Michael Brockers,IDL,Lions,TRUE,2021,3,24000000,8000000,https://overthecap.com/player/michael-brockers/1835/,1835,"6'5""",326,LSU,2012,1,14,Rams
+Quinnen Williams,IDL,Jets,TRUE,2019,4,32529372,8132343,https://overthecap.com/player/quinnen-williams/7794/,7794,"6'4""",295,Alabama,2019,1,3,Jets
+Roy Robertson-Harris,IDL,Jaguars,TRUE,2021,3,23400000,7800000,https://overthecap.com/player/roy-robertson-harris/5389/,5389,"6'7""",268,UTEP,2016,NA,NA,Bears
+Denico Autry,IDL,Titans,TRUE,2021,3,21500000,7666667,https://overthecap.com/player/denico-autry/3776/,3776,"6'5""",273,Mississippi State,2014,NA,NA,Raiders
+Davon Godchaux,IDL,Patriots,TRUE,2021,2,15000000,7500000,https://overthecap.com/player/davon-godchaux/5764/,5764,"6'3""",310,LSU,2017,5,178,Dolphins
+Maliek Collins,IDL,Texans,TRUE,2022,2,17000000,8500000,https://overthecap.com/player/maliek-collins/4780/,4780,"6'2""",311,Nebraska,2016,3,67,Cowboys
+Sebastian Joseph-Day,IDL,Chargers,TRUE,2022,3,24000000,8000000,https://overthecap.com/player/sebastian-joseph-day/7080/,7080,"6'4""",305,Rutgers,2018,6,195,Rams
+Dean Lowry,IDL,Packers,TRUE,2019,3,20325000,6775000,https://overthecap.com/player/dean-lowry/4850/,4850,"6'6""",296,Northwestern,2016,4,137,Packers
+Poona Ford,IDL,Seahawks,TRUE,2021,2,12345000,6172500,https://overthecap.com/player/poona-ford/7581/,7581,"5'11""",312,Texas,2018,NA,NA,Seahawks
+Austin Johnson,IDL,Chargers,TRUE,2022,2,14000000,7000000,https://overthecap.com/player/austin-johnson/4756/,4756,"6'4""",314,Penn State,2016,2,43,Titans
+DaQuan Jones,IDL,Bills,TRUE,2022,2,14000000,7000000,https://overthecap.com/player/daquan-jones/3051/,3051,"6'4""",322,Penn State,2014,4,112,Titans
+Harrison Phillips,IDL,Vikings,TRUE,2022,3,19500000,6500000,https://overthecap.com/player/harrison-phillips/6981/,6981,"6'4""",295,Stanford,2018,3,96,Bills
+A'Shawn Robinson,IDL,Rams,TRUE,2020,3,18000000,6000000,https://overthecap.com/player/ashawn-robinson/4759/,4759,"6'4""",307,Alabama,2016,2,46,Lions
+Malcom Brown,IDL,Jaguars,TRUE,2021,2,11000000,5500000,https://overthecap.com/player/malcom-brown/3880/,3880,"6'2""",319,Texas,2015,1,32,Patriots
+Sheldon Rankins,IDL,Jets,TRUE,2021,2,11000000,5500000,https://overthecap.com/player/sheldon-rankins/4725/,4725,"6'1""",299,Louisville,2016,1,12,Saints
+Calais Campbell,IDL,Ravens,TRUE,2022,1,12500000,6250000,https://overthecap.com/player/calais-campbell/385/,385,"6'8""",300,Miami,2008,2,50,Cardinals
+Derrick Brown,IDL,Panthers,TRUE,2020,4,23621404,5905351,https://overthecap.com/player/derrick-brown/8747/,8747,"6'5""",318,Auburn,2020,1,7,Panthers
+Dorance Armstrong Jr.,IDL,Cowboys,TRUE,2022,2,12000000,6000000,https://overthecap.com/player/dorance-armstrong-jr/7001/,7001,"6'4""",246,Kansas,2018,4,116,Cowboys
+Justin Jones,IDL,Bears,TRUE,2022,2,12000000,6000000,https://overthecap.com/player/justin-jones/6969/,6969,"6'2""",312,North Carolina State,2018,3,84,Chargers
+Matt Ioannidis,IDL,Panthers,TRUE,2022,1,5900000,5900000,https://overthecap.com/player/matt-ioannidis/4865/,4865,"6'3""",299,Temple,2016,5,152,Commanders
+Michael Pierce,IDL,Ravens,TRUE,2022,3,16500000,5500000,https://overthecap.com/player/michael-pierce/5249/,5249,"6'0""",329,Samford,2016,NA,NA,Ravens
+Bilal Nichols,IDL,Raiders,TRUE,2022,2,11000000,5500000,https://overthecap.com/player/bilal-nichols/7030/,7030,"6'4""",290,Delaware,2018,5,145,Bears
+Ed Oliver,IDL,Bills,TRUE,2019,4,19675154,4918789,https://overthecap.com/player/ed-oliver/7800/,7800,"6'3""",292,Houston,2019,1,9,Bills
+Chris Wormley,IDL,Steelers,TRUE,2021,2,4500000,4500000,https://overthecap.com/player/chris-wormley/5660/,5660,"6'5""",298,Michigan,2017,3,74,Ravens
+Jordan Phillips,IDL,Bills,TRUE,2022,1,5000000,5000000,https://overthecap.com/player/jordan-phillips/3900/,3900,"6'6""",334,Oklahoma,2015,2,52,Dolphins
+Quinton Jefferson,IDL,Seahawks,TRUE,2022,2,9500000,4750000,https://overthecap.com/player/quinton-jefferson/4860/,4860,"6'4""",291,Maryland,2016,5,147,Seahawks
+Derek Wolfe,IDL,Ravens,TRUE,2021,3,12000000,4000000,https://overthecap.com/player/derek-wolfe/15/,15,"6'5""",285,Cincinnati,2012,2,36,Broncos
+William Gholston,IDL,Buccaneers,TRUE,2022,1,4500000,4500000,https://overthecap.com/player/william-gholston/2311/,2311,"6'6""",281,Michigan State,2013,4,126,Buccaneers
+Tim Settle,IDL,Bills,TRUE,2022,2,9000000,4500000,https://overthecap.com/player/tim-settle/7048/,7048,"6'3""",335,Virginia Tech,2018,5,163,Commanders
+Al Woods,IDL,Seahawks,TRUE,2022,2,9000000,4500000,https://overthecap.com/player/al-woods/1577/,1577,"6'4""",307,LSU,2010,4,123,Saints
+Mario Edwards Jr.,IDL,Bears,TRUE,2021,3,11660391,3886797,https://overthecap.com/player/mario-edwards-jr/3883/,3883,"6'3""",279,Florida State,2015,2,35,Raiders
+Adam Butler,IDL,Dolphins,TRUE,2021,2,7500000,3750000,https://overthecap.com/player/adam-butler/6120/,6120,"6'5""",300,Vanderbilt,2017,NA,NA,Patriots
+Christian Wilkins,IDL,Dolphins,TRUE,2019,4,15439098,3859774,https://overthecap.com/player/christian-wilkins/7804/,7804,"6'4""",300,Clemson,2019,1,13,Dolphins
+Jordan Davis,IDL,Eagles,TRUE,2022,4,17009278,4252320,https://overthecap.com/player/jordan-davis/10058/,10058,"6'6""",341,Georgia,2022,1,13,Eagles
+Da'Ron Payne,IDL,Commanders,TRUE,2018,4,14418360,3604590,https://overthecap.com/player/daron-payne/6898/,6898,"6'2""",311,Alabama,2018,1,13,Commanders
+Javon Kinlaw,IDL,49ers,TRUE,2020,4,15488700,3872175,https://overthecap.com/player/javon-kinlaw/8754/,8754,"6'6""",310,South Carolina,2020,1,14,NA
+Taven Bryan,IDL,Browns,TRUE,2022,1,4000000,4000000,https://overthecap.com/player/taven-bryan/6914/,6914,"6'4""",291,Florida,2018,1,29,Jaguars
+Dexter Lawrence,IDL,Giants,TRUE,2019,4,13248040,3312010,https://overthecap.com/player/dexter-lawrence/7808/,7808,"6'4""",340,Clemson,2019,1,17,Giants
+Jeffery Simmons,IDL,Titans,TRUE,2019,4,12663754,3165939,https://overthecap.com/player/jeffery-simmons/7810/,7810,"6'4""",300,Mississippi State,2019,1,19,Titans
+Lawrence Guy,IDL,Patriots,TRUE,2021,4,11500000,2875000,https://overthecap.com/player/lawrence-guy/576/,576,"6'4""",318,Arizona State,2011,7,233,Packers
+Jarran Reed,IDL,Packers,TRUE,2022,1,3250000,3250000,https://overthecap.com/player/jarran-reed/4762/,4762,"6'3""",307,Alabama,2016,2,49,Seahawks
+Devonte Wyatt,IDL,Packers,TRUE,2022,4,12861182,3215296,https://overthecap.com/player/devonte-wyatt/10073/,10073,"6'3""",304,Georgia,2022,1,28,Packers
+Jerry Tillery,IDL,Chargers,TRUE,2019,4,11422158,2855540,https://overthecap.com/player/jerry-tillery/7819/,7819,"6'6""",305,Notre Dame,2019,1,28,Chargers
+Tyson Alualu,IDL,Steelers,TRUE,2021,2,5500000,2750000,https://overthecap.com/player/tyson-alualu/960/,960,"6'3""",295,California,2010,1,10,Jaguars
+Angelo Blackson,IDL,Bears,TRUE,2021,2,5500000,2750000,https://overthecap.com/player/angelo-blackson/3948/,3948,"6'4""",318,Auburn,2015,4,100,Titans
+Mike Purcell,IDL,Broncos,TRUE,2020,3,11500000,2875000,https://overthecap.com/player/mike-purcell/2835/,2835,"6'3""",303,Wyoming,2013,NA,NA,NA
+Zach Sieler,IDL,Dolphins,TRUE,2020,3,8575000,2858333,https://overthecap.com/player/zach-sieler/7123/,7123,"6'6""",290,Ferris State,2018,7,238,Ravens
+Rakeem Nunez-Roches,IDL,Buccaneers,TRUE,2021,2,5000000,2500000,https://overthecap.com/player/rakeem-nunez-roches/4065/,4065,"6'2""",307,Southern Miss,2015,6,217,Chiefs
+Derrick Nnadi,IDL,Chiefs,TRUE,2022,1,2750000,2750000,https://overthecap.com/player/derrick-nnadi/6960/,6960,"6'1""",312,Florida State,2018,3,75,Chiefs
+Logan Hall,IDL,Buccaneers,TRUE,2022,4,10280442,2570111,https://overthecap.com/player/logan-hall/10078/,10078,"6'6""",285,Houston,2022,2,33,Buccaneers
+Montravius Adams,IDL,Steelers,TRUE,2022,2,5000000,2500000,https://overthecap.com/player/montravius-adams/5679/,5679,"6'4""",304,Auburn,2017,3,93,Packers
+Shy Tuttle,IDL,Saints,TRUE,2022,1,2433000,2433000,https://overthecap.com/player/shy-tuttle/8360/,8360,"6'2""",308,Tennessee,2019,NA,NA,Saints
+Christian Barmore,IDL,Patriots,TRUE,2021,4,8522268,2130567,https://overthecap.com/player/christian-barmore/9502/,9502,"6'5""",310,Alabama,2021,2,38,Patriots
+Levi Onwuzurike,IDL,Lions,TRUE,2021,4,8148892,2037223,https://overthecap.com/player/levi-onwuzurike/9505/,9505,"6'3""",293,Washington,2021,2,41,Lions
+Ross Blacklock,IDL,Texans,TRUE,2020,4,7947452,1986863,https://overthecap.com/player/ross-blacklock/8780/,8780,"6'4""",305,TCU,2020,2,40,Texans
+Phidarian Mathis,IDL,Commanders,TRUE,2022,4,8149552,2037388,https://overthecap.com/player/phidarian-mathis/10092/,10092,"6'4""",310,Alabama,2022,2,47,Commanders
+Marlon Davidson,IDL,Falcons,TRUE,2020,4,6912374,1728094,https://overthecap.com/player/marlon-davidson/8787/,8787,"6'3""",278,Auburn,2020,2,47,Falcons
+Hassan Ridgeway,IDL,49ers,TRUE,2022,1,1800000,1800000,https://overthecap.com/player/hassan-ridgeway/4829/,4829,"6'3""",303,Texas,2016,4,116,Colts
+Kemoko Turay,IDL,49ers,TRUE,2022,1,1700000,1700000,https://overthecap.com/player/kemoko-turay/6937/,6937,"6'5""",252,Rutgers,2018,2,52,Colts
+Josh Tupou,IDL,Bengals,TRUE,2022,2,3000000,1500000,https://overthecap.com/player/josh-tupou/6022/,6022,"6'3""",353,Colorado,2017,NA,NA,Bengals
+Raekwon Davis,IDL,Dolphins,TRUE,2020,4,5655510,1413878,https://overthecap.com/player/raekwon-davis/8796/,8796,"6'7""",306,Alabama,2020,2,56,Dolphins
+Alim McNeill,IDL,Lions,TRUE,2021,4,5129182,1282296,https://overthecap.com/player/alim-mcneill/9536/,9536,"6'2""",320,North Carolina State,2021,3,72,Lions
+Milton Williams,IDL,Eagles,TRUE,2021,4,5110182,1277546,https://overthecap.com/player/milton-williams/9537/,9537,"6'4""",278,Louisiana Tech,2021,3,73,Eagles
+Osa Odighizuwa,IDL,Cowboys,TRUE,2021,4,5086198,1271550,https://overthecap.com/player/osa-odighizuwa/9539/,9539,"6'2""",279,UCLA,2021,3,75,Cowboys
+Adam Gotsis,IDL,Jaguars,TRUE,2022,1,1435000,1435000,https://overthecap.com/player/adam-gotsis/4776/,4776,"6'4""",287,Georgia Tech,2016,2,63,Broncos
+Trysten Hill,IDL,Cowboys,TRUE,2019,4,4878196,1219549,https://overthecap.com/player/trysten-hill/7849/,7849,"6'2""",330,UCF,2019,2,58,Cowboys
+Travis Jones,IDL,Ravens,TRUE,2022,4,5306660,1326665,https://overthecap.com/player/travis-jones/10121/,10121,"6'4""",327,UConn,2022,3,76,Ravens
+Johnathan Hankins,IDL,Raiders,TRUE,2022,1,1325000,1325000,https://overthecap.com/player/johnathan-hankins/2259/,2259,"6'2""",320,Ohio State,2013,2,49,Giants
+Anthony Rush,IDL,Falcons,TRUE,2022,1,1300000,1300000,https://overthecap.com/player/anthony-rush/8433/,8433,"6'5""",350,UAB,2019,NA,NA,Eagles
+DeMarvin Leal,IDL,Steelers,TRUE,2022,4,5186896,1296724,https://overthecap.com/player/demarvin-leal/10129/,10129,"6'4""",284,Texas A&M,2022,3,84,Steelers
+Justin Madubuike,IDL,Ravens,TRUE,2020,4,4853310,1213328,https://overthecap.com/player/justin-madubuike/8811/,8811,"6'3""",304,Texas A&M,2020,3,71,Ravens
+John Jenkins,IDL,Dolphins,TRUE,2022,1,1272500,1272500,https://overthecap.com/player/john-jenkins/2226/,2226,"6'3""",359,Georgia,2013,3,82,Saints
+Christian Covington,IDL,Chargers,TRUE,2022,1,1272500,1272500,https://overthecap.com/player/christian-covington/4064/,4064,"6'2""",289,Rice,2015,6,216,Texans
+Justin Ellis,IDL,Giants,TRUE,2022,1,1272500,1272500,https://overthecap.com/player/justin-ellis/3046/,3046,"6'1""",334,Louisiana Tech,2014,4,107,Raiders
+Zachary Carter,IDL,Bengals,TRUE,2022,4,5079936,1269984,https://overthecap.com/player/zachary-carter/10140/,10140,"6'4""",282,Florida,2022,3,95,Bengals
+Davon Hamilton,IDL,Jaguars,TRUE,2020,4,4810681,1202670,https://overthecap.com/player/davon-hamilton/8813/,8813,"6'4""",320,Ohio State,2020,3,73,Jaguars
+Vernon Butler,IDL,Raiders,TRUE,2022,1,1250000,1250000,https://overthecap.com/player/vernon-butler/4742/,4742,"6'4""",323,Louisiana Tech,2016,1,30,Panthers
+Jay Tufele,IDL,Jaguars,TRUE,2021,4,4305684,1076421,https://overthecap.com/player/jay-tufele/9570/,9570,"6'3""",305,USC,2021,4,106,Jaguars
+Neville Gallimore,IDL,Cowboys,TRUE,2020,4,4606022,1151506,https://overthecap.com/player/neville-gallimore/8822/,8822,"6'2""",304,Oklahoma,2020,3,82,Cowboys
+Bobby Brown III,IDL,Rams,TRUE,2021,4,4236532,1059133,https://overthecap.com/player/bobby-brown-iii/9581/,9581,"6'4""",325,Texas A&M,2021,4,117,Rams
+Tyler Shelvin,IDL,Bengals,TRUE,2021,4,4216560,1054140,https://overthecap.com/player/tyler-shelvin/9586/,9586,"6'3""",346,LSU,2021,4,122,Bengals
+Zach Allen,IDL,Cardinals,TRUE,2019,4,4293762,1073441,https://overthecap.com/player/zach-allen/7856/,7856,"6'5""",285,Boston College,2019,3,65,Cardinals
+Taylor Stallworth,IDL,Chiefs,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/taylor-stallworth/7510/,7510,"6'2""",305,South Carolina,2018,NA,NA,Saints
+Pat O'Connor,IDL,Buccaneers,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/pat-oconnor/5836/,5836,"6'4""",270,Eastern Michigan,2017,7,250,Lions
+Isaac Rochell,IDL,Browns,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/isaac-rochell/5811/,5811,"6'4""",280,Notre Dame,2017,7,225,Chargers
+Vincent Taylor,IDL,Falcons,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/vincent-taylor/5780/,5780,"6'3""",304,Oklahoma State,2017,6,194,Dolphins
+Carl Davis,IDL,Patriots,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/carl-davis/3938/,3938,"6'5""",320,Iowa,2015,3,90,Ravens
+Andrew Billings,IDL,Raiders,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/andrew-billings/4835/,4835,"6'1""",311,Baylor,2016,4,122,Bengals
+Carlos Watkins,IDL,Cowboys,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/carlos-watkins/5728/,5728,"6'3""",309,Clemson,2017,4,142,Texans
+Tommy Togiai,IDL,Browns,TRUE,2021,4,4157144,1039286,https://overthecap.com/player/tommy-togiai/9596/,9596,"6'2""",300,Ohio State,2021,4,132,Browns
+Jordan Elliott,IDL,Browns,TRUE,2020,4,4493751,1123438,https://overthecap.com/player/jordan-elliott/8828/,8828,"6'4""",315,Missouri,2020,3,88,Browns
+DeShawn Williams,IDL,Broncos,TRUE,2022,1,1165000,1165000,https://overthecap.com/player/deshawn-williams/4453/,4453,"6'1""",295,Clemson,2015,NA,NA,Bengals
+Daniel Ekuale,IDL,Patriots,TRUE,2022,1,1160000,1160000,https://overthecap.com/player/daniel-ekuale/7279/,7279,"6'3""",300,Washington State,2018,NA,NA,Browns
+McTelvin Agim,IDL,Broncos,TRUE,2020,4,4399047,1099762,https://overthecap.com/player/mctelvin-agim/8835/,8835,"6'3""",309,Arkansas,2020,3,95,Broncos
+Dre'Mont Jones,IDL,Broncos,TRUE,2019,4,4158800,1039700,https://overthecap.com/player/dremont-jones/7862/,7862,"6'3""",286,Ohio State,2019,3,71,Broncos
+Perrion Winfrey,IDL,Browns,TRUE,2022,4,4472800,1118200,https://overthecap.com/player/perrion-winfrey/10153/,10153,"6'4""",290,Oklahoma,2022,4,108,Browns
+Eyioma Uwazurike,IDL,Broncos,TRUE,2022,4,4425872,1106468,https://overthecap.com/player/eyioma-uwazurike/10161/,10161,"6'6""",313,Iowa State,2022,4,116,Broncos
+Neil Farrell Jr.,IDL,Raiders,TRUE,2022,4,4380304,1095076,https://overthecap.com/player/neil-farrell-jr/10171/,10171,"6'4""",339,LSU,2022,4,126,Raiders
+Ta'Quon Graham,IDL,Falcons,TRUE,2021,4,3830612,957653,https://overthecap.com/player/taquon-graham/9612/,9612,"6'4""",294,Texas,2021,5,148,Falcons
+Kyle Peko,IDL,Raiders,TRUE,2022,1,1085000,1085000,https://overthecap.com/player/kyle-peko/5126/,5126,"6'1""",305,Oregon State,2016,NA,NA,Broncos
+Maurice Hurst,IDL,49ers,TRUE,2022,1,1085000,1085000,https://overthecap.com/player/maurice-hurst/7025/,7025,"6'2""",280,Michigan,2018,5,140,Raiders
+Nathan Shepherd,IDL,Jets,TRUE,2022,1,1085000,1085000,https://overthecap.com/player/nathan-shepherd/6957/,6957,"6'5""",300,Fort Hays State,2018,3,72,Jets
+Isaiahh Loudermilk,IDL,Steelers,TRUE,2021,4,3800288,950072,https://overthecap.com/player/isaiahh-loudermilk/9620/,9620,"6'7""",293,Wisconsin,2021,5,156,Steelers
+Daviyon Nixon,IDL,Panthers,TRUE,2021,4,3798552,949638,https://overthecap.com/player/daviyon-nixon/9622/,9622,"6'3""",305,Iowa,2021,5,158,Panthers
+Tedarrell Slaton,IDL,Packers,TRUE,2021,4,3760520,940130,https://overthecap.com/player/tedarrell-slaton/9637/,9637,"6'5""",340,Florida,2021,5,173,Packers
+Leki Fotu,IDL,Cardinals,TRUE,2020,4,4068472,1017118,https://overthecap.com/player/leki-fotu/8854/,8854,"6'5""",335,Utah,2020,4,114,Cardinals
+Chase Winovich,IDL,Browns,TRUE,2019,4,3827312,956828,https://overthecap.com/player/chase-winovich/7868/,7868,"6'3""",255,Michigan,2019,3,77,Patriots
+Marlon Tuipulotu,IDL,Eagles,TRUE,2021,4,3675912,918978,https://overthecap.com/player/marlon-tuipulotu/9653/,9653,"6'3""",305,USC,2021,6,189,Eagles
+James Lynch,IDL,Vikings,TRUE,2020,4,3985992,996498,https://overthecap.com/player/james-lynch/8870/,8870,"6'4""",295,Baylor,2020,4,130,Vikings
+Quinton Bohanna,IDL,Cowboys,TRUE,2021,4,3668476,917119,https://overthecap.com/player/quinton-bohanna/9656/,9656,"6'4""",357,Kentucky,2021,6,192,Cowboys
+Rashard Lawrence,IDL,Cardinals,TRUE,2020,4,3979084,994771,https://overthecap.com/player/rashard-lawrence/8871/,8871,"6'2""",308,LSU,2020,4,131,Cardinals
+Roy Lopez,IDL,Texans,TRUE,2021,4,3662844,915711,https://overthecap.com/player/roy-lopez/9659/,9659,"6'2""",318,Arizona,2021,6,195,Texans
+Jonathan Marshall,IDL,Jets,TRUE,2021,4,3648900,912225,https://overthecap.com/player/jonathan-marshall/9671/,9671,"6'3""",317,Arkansas,2021,6,207,Jets
+Kevin Strong,IDL,Titans,TRUE,2021,2,1815000,907500,https://overthecap.com/player/kevin-strong/8292/,8292,"6'4""",285,UTSA,2019,NA,NA,Lions
+Noah Spence,IDL,Bengals,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/noah-spence/4752/,4752,"6'2""",251,Eastern Kentucky,2016,2,39,Buccaneers
+Tanzel Smart,IDL,Jets,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/tanzel-smart/5775/,5775,"6'1""",296,Tulane,2017,6,189,Rams
+Jaleel Johnson,IDL,Saints,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/jaleel-johnson/5695/,5695,"6'3""",316,Iowa,2017,4,109,Vikings
+T.Y. McGill,IDL,Vikings,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/t-y-mcgill/4517/,4517,"6'0""",299,North Carolina State,2015,NA,NA,Seahawks
+Eli Ankou,IDL,Bills,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/eli-ankou/6238/,6238,"6'3""",290,UCLA,2017,NA,NA,Texans
+Sheldon Day,IDL,Browns,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/sheldon-day/4816/,4816,"6'1""",293,Notre Dame,2016,4,103,Jaguars
+Jalyn Holmes,IDL,Giants,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/jalyn-holmes/6987/,6987,"6'5""",270,Ohio State,2018,4,102,Vikings
+Phil Hoskins,IDL,Panthers,TRUE,2021,4,3591244,897811,https://overthecap.com/player/phil-hoskins/9696/,9696,"6'5""",315,Kentucky,2021,7,232,Panthers
+Jonathan Harris,IDL,Broncos,TRUE,2021,1,2685000,895000,https://overthecap.com/player/jonathan-harris/8120/,8120,"6'5""",282,Lindenwood,2019,NA,NA,Bears
+Khyiris Tonga,IDL,Bears,TRUE,2021,4,3563648,890912,https://overthecap.com/player/khyiris-tonga/9714/,9714,"6'4""",321,BYU,2021,7,250,Bears
+Khalen Saunders,IDL,Chiefs,TRUE,2019,4,3673180,918295,https://overthecap.com/player/khalen-saunders/7875/,7875,"6'2""",310,Western Illinois,2019,3,84,Chiefs
+D.J. Davidson,IDL,Giants,TRUE,2022,4,4014120,1003530,https://overthecap.com/player/d-j-davidson/10192/,10192,"6'1""",328,Arizona State,2022,5,147,Giants
+Michael Dogbe,IDL,Cardinals,TRUE,2022,1,1000000,1000000,https://overthecap.com/player/michael-dogbe/8040/,8040,"6'3""",280,Temple,2019,7,249,Cardinals
+Kingsley Keke,IDL,Cardinals,TRUE,2022,1,1000000,1000000,https://overthecap.com/player/kingsley-keke/7941/,7941,"6'4""",305,Texas A&M,2019,5,150,Packers
+Thomas Booker,IDL,Texans,TRUE,2022,4,3996408,999102,https://overthecap.com/player/thomas-booker/10195/,10195,"6'3""",301,Stanford,2022,5,150,Bears
+Eric Johnson,IDL,Colts,TRUE,2022,4,3980740,995185,https://overthecap.com/player/eric-johnson/10204/,10204,"6'4""",299,Missouri State,2022,5,159,Colts
+Otito Ogbonnia,IDL,Chargers,TRUE,2022,4,3978888,994722,https://overthecap.com/player/otito-ogbonnia/10205/,10205,"6'4""",323,UCLA,2022,5,160,Chargers
+Matthew Butler,IDL,Raiders,TRUE,2022,4,3928960,982240,https://overthecap.com/player/matthew-butler/10220/,10220,"6'4""",298,Tennessee,2022,5,175,Raiders
+John Ridgeway,IDL,Cowboys,TRUE,2022,4,3902556,975639,https://overthecap.com/player/john-ridgeway/10223/,10223,"6'5""",320,Arkansas,2022,5,178,Cowboys
+Bruce Hector,IDL,Lions,TRUE,2022,1,965000,965000,https://overthecap.com/player/bruce-hector/7382/,7382,"6'2""",296,South Florida,2018,NA,NA,Eagles
+Matt Dickerson,IDL,Cardinals,TRUE,2022,1,965000,965000,https://overthecap.com/player/matt-dickerson/7192/,7192,"6'5""",292,UCLA,2018,NA,NA,Titans
+Deadrin Senat,IDL,Buccaneers,TRUE,2022,1,965000,965000,https://overthecap.com/player/deadrin-senat/6975/,6975,"6'1""",305,South Florida,2018,3,90,Falcons
+Isaiah Mack,IDL,Ravens,TRUE,2022,1,965000,965000,https://overthecap.com/player/isaiah-mack/8443/,8443,"6'2""",280,Chattanooga,2019,NA,NA,Titans
+Bryan Mone,IDL,Seahawks,TRUE,2022,1,965000,965000,https://overthecap.com/player/bryan-mone/8140/,8140,"6'4""",325,Michigan,2019,NA,NA,Seahawks
+R.J. McIntosh,IDL,Colts,TRUE,2022,1,965000,965000,https://overthecap.com/player/r-j-mcintosh/7024/,7024,"6'4""",293,Miami (FL),2018,5,139,Giants
+Jordan Jackson,IDL,Saints,TRUE,2022,4,3836688,959172,https://overthecap.com/player/jordan-jackson/10239/,10239,"6'5""",294,Air Force,2022,6,194,Saints
+Sam Roberts,IDL,Patriots,TRUE,2022,4,3831476,957869,https://overthecap.com/player/sam-roberts/10245/,10245,"6'5""",292,NW Missouri State,2022,6,200,Patriots
+Matt Henningsen,IDL,Broncos,TRUE,2022,4,3822080,955520,https://overthecap.com/player/matt-henningsen/10251/,10251,"6'3""",289,Wisconsin,2022,6,206,Broncos
+Henry Mondeaux,IDL,Steelers,TRUE,2021,2,1675000,837500,https://overthecap.com/player/henry-mondeaux/7509/,7509,"6'5""",280,Oregon,2018,NA,NA,Saints
+Kendal Vickers,IDL,Raiders,TRUE,2021,2,1675000,837500,https://overthecap.com/player/kendal-vickers/7300/,7300,"6'3""",295,Tennessee,2018,NA,NA,Steelers
+Joe Gaziano,IDL,Chargers,TRUE,2021,2,1675000,837500,https://overthecap.com/player/joe-gaziano/9081/,9081,"6'4""",275,Northwestern,2020,NA,NA,Chargers
+Brandin Bryant,IDL,Bills,TRUE,2022,1,1905000,952500,https://overthecap.com/player/brandin-bryant/5346/,5346,"6'2""",289,Florida Atlantic,2016,NA,NA,Seahawks
+Curtis Brooks,IDL,Colts,TRUE,2022,4,3792012,948003,https://overthecap.com/player/curtis-brooks/10261/,10261,"6'2""",287,Cincinnati,2022,6,216,Colts
+Kalia Davis,IDL,49ers,TRUE,2022,4,3792012,948003,https://overthecap.com/player/kalia-davis/10265/,10265,"6'1""",302,Central Florida,2022,6,220,NA
+Isaiah Thomas,IDL,Browns,TRUE,2022,4,3775604,943901,https://overthecap.com/player/isaiah-thomas/10268/,10268,"6'5""",265,Oklahoma,2022,7,223,Browns
+"Broderick Washington, Jr.",IDL,Ravens,TRUE,2020,4,3588648,897162,https://overthecap.com/player/broderick-washington-jr/8910/,8910,"6'3""",305,Texas Tech,2020,5,170,Ravens
+Jonathan Ford,IDL,Packers,TRUE,2022,4,3761088,940272,https://overthecap.com/player/jonathan-ford/10279/,10279,"6'5""",338,Miami,2022,7,234,Packers
+Larrell Murchison,IDL,Titans,TRUE,2020,4,3572744,893186,https://overthecap.com/player/larrell-murchison/8914/,8914,"6'2""",294,North Carolina State,2020,5,174,Titans
+Bravvion Roy,IDL,Panthers,TRUE,2020,4,3488972,872243,https://overthecap.com/player/bravvion-roy/8924/,8924,"6'1""",333,Baylor,2020,6,184,Panthers
+John Penisini,IDL,Lions,TRUE,2020,4,3466176,866544,https://overthecap.com/player/john-penisini/8937/,8937,"6'2""",333,Utah,2020,6,197,Lions
+Eric Banks,IDL,Lions,TRUE,2022,1,905000,905000,https://overthecap.com/player/eric-banks/9210/,9210,"6'5""",270,UTSA,2020,NA,NA,Rams
+Malcolm Roach,IDL,Saints,TRUE,2022,1,895000,895000,https://overthecap.com/player/malcolm-roach/9379/,9379,"6'3""",290,Texas,2020,NA,NA,Saints
+Cortez Broughton,IDL,Chiefs,TRUE,2022,1,895000,895000,https://overthecap.com/player/cortez-broughton/8033/,8033,"6'2""",290,Cincinnati,2019,7,242,Chargers
+Andrew Brown,IDL,Chargers,TRUE,2022,1,895000,895000,https://overthecap.com/player/andrew-brown/7043/,7043,"6'4""",285,Virginia,2018,5,158,Bengals
+Teair Tart,IDL,Titans,TRUE,2022,1,895000,895000,https://overthecap.com/player/teair-tart/9303/,9303,"6'3""",290,Florida International,2020,NA,NA,Titans
+Kevin Givens,IDL,49ers,TRUE,2022,1,895000,895000,https://overthecap.com/player/kevin-givens/8215/,8215,"6'1""",285,Penn State,2019,NA,NA,NA
+Jeremiah Ledbetter,IDL,Jaguars,TRUE,2022,1,895000,895000,https://overthecap.com/player/jeremiah-ledbetter/5791/,5791,"6'3""",280,Arkansas,2017,6,205,Lions
+Albert Huggins,IDL,Saints,TRUE,2022,1,895000,895000,https://overthecap.com/player/albert-huggins/8329/,8329,"6'3""",305,Clemson,2019,NA,NA,Texans
+Khalil Davis,IDL,Steelers,TRUE,2022,1,895000,895000,https://overthecap.com/player/khalil-davis/8934/,8934,"6'1""",308,Nebraska,2020,6,194,Buccaneers
+Carlos Davis,IDL,Steelers,TRUE,2020,4,3388504,847126,https://overthecap.com/player/carlos-davis/8972/,8972,"6'2""",320,Nebraska,2020,7,232,Steelers
+Jashon Cornell,IDL,Lions,TRUE,2020,4,3379532,844883,https://overthecap.com/player/jashon-cornell/8975/,8975,"6'3""",285,Ohio State,2020,7,235,Lions
+Jonah Williams,IDL,Rams,TRUE,2022,2,1765000,882500,https://overthecap.com/player/jonah-williams/9227/,9227,"6'5""",275,Weber State,2020,NA,NA,Rams
+Josiah Bronson,IDL,Cowboys,TRUE,2022,2,1765000,882500,https://overthecap.com/player/josiah-bronson/9933/,9933,"6'3""",300,Washington,2021,NA,NA,Saints
+Greg Gaines,IDL,Rams,TRUE,2019,4,3146612,786653,https://overthecap.com/player/greg-gaines/7925/,7925,"6'2""",313,Washington,2019,4,134,Rams
+Elijah Garcia,IDL,Rams,TRUE,2022,3,2585000,861667,https://overthecap.com/player/elijah-garcia/10580/,10580,"6'5""",290,Rice,2022,NA,NA,Rams
+Christopher Hinton,IDL,Giants,TRUE,2022,3,2575000,858333,https://overthecap.com/player/christopher-hinton/10493/,10493,"6'4""",304,Michigan,2022,NA,NA,Giants
+Tyrone Truesdell,IDL,Giants,TRUE,2022,3,2575000,858333,https://overthecap.com/player/tyrone-truesdell/10393/,10393,"6'2""",347,Florida,2022,NA,NA,Giants
+Marquan McCall,IDL,Panthers,TRUE,2022,3,2575000,858333,https://overthecap.com/player/marquan-mccall/10455/,10455,"6'3""",354,Kentucky,2022,NA,NA,Panthers
+Manny Jones,IDL,Cardinals,TRUE,2022,3,2575000,858333,https://overthecap.com/player/manny-jones/10378/,10378,"6'3""",280,Colorado State,2022,NA,NA,Cardinals
+Donovan Jeter,IDL,Steelers,TRUE,2022,3,2572500,857500,https://overthecap.com/player/donovan-jeter/10494/,10494,"6'3""",310,Michigan,2022,NA,NA,Steelers
+Noah Elliss,IDL,Eagles,TRUE,2022,3,2570000,856667,https://overthecap.com/player/noah-elliss/10424/,10424,"6'4""",351,Idaho,2022,NA,NA,Eagles
+Rayshad Nichols,IDL,Ravens,TRUE,2022,3,2568000,856000,https://overthecap.com/player/rayshad-nichols/10712/,10712,"6'3""",307,Stephen F. Austin,2022,NA,NA,Ravens
+Hauati Pututau,IDL,Packers,TRUE,2022,3,2568000,856000,https://overthecap.com/player/hauati-pututau/10653/,10653,"6'3""",306,Utah,2022,NA,NA,Packers
+Akial Byers,IDL,Packers,TRUE,2022,3,2568000,856000,https://overthecap.com/player/akial-byers/10512/,10512,"6'3""",308,Missouri,2022,NA,NA,Packers
+Jabari Ellis,IDL,Giants,TRUE,2022,3,2567500,855833,https://overthecap.com/player/jabari-ellis/10596/,10596,"6'2""",278,South Carolina,2022,NA,NA,Giants
+Prince Emili,IDL,Bills,TRUE,2022,3,2567500,855833,https://overthecap.com/player/prince-emili/10765/,10765,"6'1""",304,Penn,2022,NA,NA,Bills
+Micah Dew-Treadway,IDL,Bears,TRUE,2022,3,2565000,855000,https://overthecap.com/player/micah-dew-treadway/10503/,10503,"6'4""",308,Minnesota,2022,NA,NA,Bears
+Kevin Atkins,IDL,49ers,TRUE,2022,3,2565000,855000,https://overthecap.com/player/kevin-atkins/10407/,10407,"6'2""",314,Fresno State,2022,NA,NA,NA
+Derrick Tangelo,IDL,Falcons,TRUE,2022,3,2565000,855000,https://overthecap.com/player/derrick-tangelo/10569/,10569,"6'2""",296,Penn State,2022,NA,NA,Falcons
+C.J. Brewer,IDL,Bills,TRUE,2022,3,2562500,854167,https://overthecap.com/player/c-j-brewer/10764/,10764,"6'2""",290,Costal Carolina,2022,NA,NA,Bills
+Bryce Rodgers,IDL,Falcons,TRUE,2022,3,2562500,854167,https://overthecap.com/player/bryce-rodgers/10631/,10631,"6'2""",309,UC Davis,2022,NA,NA,Falcons
+Israel Antwine,IDL,Jaguars,TRUE,2022,3,2562000,854000,https://overthecap.com/player/israel-antwine/10551/,10551,"6'3""",309,Oklahoma State,2022,NA,NA,Jaguars
+Tyarise Stevenson,IDL,Vikings,TRUE,2022,3,2560250,853417,https://overthecap.com/player/tyarise-stevenson/10629/,10629,"6'2""",352,Tulsa,2022,NA,NA,Vikings
+McKinley Williams,IDL,Colts,TRUE,2022,3,2560000,853333,https://overthecap.com/player/mckinley-williams/10604/,10604,"6'4""",291,Syracuse,2022,NA,NA,Colts
+Jayden Peevy,IDL,Titans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/jayden-peevy/10620/,10620,"6'5""",308,Texas A&M,2022,NA,NA,Titans
+Jordan Williams,IDL,Dolphins,TRUE,2022,3,2560000,853333,https://overthecap.com/player/jordan-williams/10676/,10676,"6'4""",291,Virginia Tech,2022,NA,NA,Dolphins
+David Anenih,IDL,Titans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/david-anenih/10420/,10420,"6'2""",245,Houston,2022,NA,NA,Titans
+Roderick Perry II,IDL,Browns,TRUE,2022,3,2560000,853333,https://overthecap.com/player/roderick-perry-ii/10432/,10432,"6'1""",304,Illinois,2022,NA,NA,Browns
+Timmy Horne,IDL,Falcons,TRUE,2022,3,2560000,853333,https://overthecap.com/player/timmy-horne/10451/,10451,"6'4""",323,Kansas State,2022,NA,NA,Falcons
+Glen Logan,IDL,Browns,TRUE,2022,3,2560000,853333,https://overthecap.com/player/glen-logan/10467/,10467,"6'3""",298,LSU,2022,NA,NA,Browns
+Deandre Johnson,IDL,Dolphins,TRUE,2022,3,2560000,853333,https://overthecap.com/player/deandre-johnson/10483/,10483,"6'3""",252,Miami,2022,NA,NA,Dolphins
+Ben Stille,IDL,Dolphins,TRUE,2022,3,2560000,853333,https://overthecap.com/player/ben-stille/10517/,10517,"6'4""",300,Nebraska,2022,NA,NA,Dolphins
+Kurt Hinish,IDL,Texans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/kurt-hinish/10541/,10541,"6'2""",302,Notre Dame,2022,NA,NA,Texans
+Damion Daniels,IDL,Texans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/damion-daniels/10518/,10518,"6'2""",302,Nebraska,2022,NA,NA,Texans
+Haskell Garrett,IDL,Titans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/haskell-garrett/10750/,10750,"6'2""",300,Ohio State,2022,NA,NA,Titans
+Trevon Mason,IDL,Steelers,TRUE,2022,3,2560000,853333,https://overthecap.com/player/trevon-mason/10781/,10781,"6'6""",290,Arizona,2022,NA,NA,Steelers
+Mike Greene,IDL,Buccaneers,TRUE,2022,3,2560000,853333,https://overthecap.com/player/mike-greene/10788/,10788,"6'2""",281,James Madison,2022,NA,NA,Buccaneers
+Josh Black,IDL,Saints,TRUE,2022,3,2560000,853333,https://overthecap.com/player/josh-black/10794/,10794,"6'3""",284,Syracuse,2022,NA,NA,Saints
+LaBryan Ray,IDL,Patriots,TRUE,2022,3,2560000,853333,https://overthecap.com/player/labryan-ray/10313/,10313,"6'4""",286,Alabama,2022,NA,NA,Patriots
+Adedayo Odeleye,IDL,Texans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/adedayo-odeleye/10742/,10742,"6'5""",271,NA,2022,NA,NA,Texans
+Renell Wren,IDL,Eagles,TRUE,2022,1,850000,850000,https://overthecap.com/player/renell-wren/7916/,7916,"6'6""",297,Arizona State,2019,4,125,Bengals
+Michael Hoecht,IDL,Rams,TRUE,2021,2,1485000,742500,https://overthecap.com/player/michael-hoecht/9215/,9215,"6'4""",310,Brown,2020,NA,NA,Rams
+Sam Kamara,IDL,Bears,TRUE,2021,2,1485000,742500,https://overthecap.com/player/sam-kamara/9873/,9873,"6'2""",275,Stony Brook,2021,NA,NA,Bears
+Breiden Fehoko,IDL,Chargers,TRUE,2021,2,1485000,742500,https://overthecap.com/player/breiden-fehoko/9080/,9080,"6'2""",291,Louisiana State,2020,NA,NA,Chargers
+Marquise Copeland,IDL,Rams,TRUE,2021,2,1485000,742500,https://overthecap.com/player/marquise-copeland/8477/,8477,"6'2""",290,Cincinnati,2019,NA,NA,Rams
+Naquan Jones,IDL,Titans,TRUE,2021,1,1485000,742500,https://overthecap.com/player/naquan-jones/9800/,9800,"6'4""",340,Michigan State,2021,NA,NA,Titans
+David Moa,IDL,Giants,TRUE,2022,1,832000,832000,https://overthecap.com/player/david-moa/9166/,9166,"6'3""",296,Boise State,2020,NA,NA,Vikings
+Jamal Davis,IDL,Chargers,TRUE,2022,1,827500,827500,https://overthecap.com/player/jamal-davis/8323/,8323,"6'3""",233,Akron,2019,NA,NA,Texans
+Chris Williams,IDL,Colts,TRUE,2022,1,825000,825000,https://overthecap.com/player/chris-williams/9180/,9180,"6'2""",302,Wagner,2020,NA,NA,Colts
+Forrest Merrill,IDL,Chargers,TRUE,2022,1,825000,825000,https://overthecap.com/player/forrest-merrill/9825/,9825,"6'1""",338,Arkansas State,2021,NA,NA,Chargers
+Bunmi Rotimi,IDL,Commanders,TRUE,2022,1,825000,825000,https://overthecap.com/player/bunmi-rotimi/7417/,7417,"6'4""",275,Old Dominion,2018,NA,NA,Bears
+Benito Jones,IDL,Dolphins,TRUE,2022,1,825000,825000,https://overthecap.com/player/benito-jones/9372/,9372,"6'1""",329,Mississippi,2020,NA,NA,Dolphins
+Auzoyah Alufohai,IDL,Bears,TRUE,2022,1,825000,825000,https://overthecap.com/player/auzoyah-alufohai/9036/,9036,"6'4""",320,Kennesaw State,2020,NA,NA,Texans
+Michael Dwumfour,IDL,Texans,TRUE,2022,1,825000,825000,https://overthecap.com/player/michael-dwumfour/9745/,9745,"6'1""",296,Rutgers,2021,NA,NA,Jets
+Raequan Williams,IDL,Jaguars,TRUE,2022,1,825000,825000,https://overthecap.com/player/raequan-williams/9132/,9132,"6'4""",303,Michigan State,2020,NA,NA,Eagles
+Daniel Wise,IDL,Commanders,TRUE,2022,1,825000,825000,https://overthecap.com/player/daniel-wise/8461/,8461,"6'3""",281,Kansas,2019,NA,NA,Cowboys
+Jack Heflin,IDL,Packers,TRUE,2022,1,825000,825000,https://overthecap.com/player/jack-heflin/9893/,9893,"6'4""",312,Iowa,2021,NA,NA,Packers
+Nick Thurman,IDL,Falcons,TRUE,2022,1,825000,825000,https://overthecap.com/player/nick-thurman/7589/,7589,"6'4""",295,University of Houston,2018,NA,NA,Texans
+Tershawn Wharton,IDL,Chiefs,TRUE,2020,3,2290000,763333,https://overthecap.com/player/tershawn-wharton/9070/,9070,"6'4""",255,Missouri S&T,2020,NA,NA,Chiefs
+Marvin Wilson,IDL,Eagles,TRUE,2022,2,1575000,787500,https://overthecap.com/player/marvin-wilson/9759/,9759,"6'5""",305,Florida State,2021,NA,NA,Browns
+Marquiss Spencer,IDL,Broncos,TRUE,2022,2,1575000,787500,https://overthecap.com/player/marquiss-spencer/9717/,9717,"6'4""",300,Mississippi State,2021,7,253,Broncos
+Austin Faoliu,IDL,Cowboys,TRUE,2022,2,1575000,787500,https://overthecap.com/player/austin-faoliu/9853/,9853,"6'3""",300,Oregon,2021,NA,NA,Cowboys
+Jonathan Kongbo,IDL,Broncos,TRUE,2022,2,1575000,787500,https://overthecap.com/player/jonathan-kongbo/8641/,8641,"6'5""",254,Tennessee,2020,NA,NA,NA
+Elijah Ponder,IDL,Buccaneers,TRUE,2022,2,1575000,787500,https://overthecap.com/player/elijah-ponder/9994/,9994,"6'3""",275,Cincinnati,2021,NA,NA,Buccaneers
+Benning Potoa'e,IDL,Buccaneers,TRUE,2022,2,1575000,787500,https://overthecap.com/player/benning-potoae/9189/,9189,"6'3""",291,Washington,2020,NA,NA,Buccaneers
+Willington Previlon,IDL,Buccaneers,TRUE,2022,2,1575000,787500,https://overthecap.com/player/willington-previlon/9148/,9148,"6'5""",295,Rutgers,2020,NA,NA,Packers
+Byron Cowart,IDL,Patriots,TRUE,2019,4,2820596,705149,https://overthecap.com/player/byron-cowart/7950/,7950,"6'4""",293,Maryland,2019,5,159,Patriots
+Armon Watts,IDL,Vikings,TRUE,2019,4,2689096,672274,https://overthecap.com/player/armon-watts/7981/,7981,"6'5""",298,Arkansas,2019,6,190,Vikings
+David Bada,IDL,Commanders,TRUE,2022,1,705000,705000,https://overthecap.com/player/david-bada/9427/,9427,"6'5""",287,NA,2020,NA,NA,Commanders
+Chris Slayton,IDL,Packers,TRUE,2022,1,705000,705000,https://overthecap.com/player/chris-slayton/8036/,8036,"6'4""",309,Syracuse,2019,7,245,Giants
+Kameron Cline,IDL,Colts,TRUE,2022,1,705000,705000,https://overthecap.com/player/kameron-cline/9114/,9114,"6'4""",270,South Dakota,2020,NA,NA,Colts
+Delontae Scott,IDL,Steelers,TRUE,2022,1,705000,705000,https://overthecap.com/player/delontae-scott/9150/,9150,"6'5""",250,Southern MEthodist,2020,NA,NA,Packers
+Aaron Crawford,IDL,Ravens,TRUE,2022,1,705000,705000,https://overthecap.com/player/aaron-crawford/9335/,9335,"6'2""",290,North Carolina,2020,NA,NA,Ravens
+Daniel Archibong,IDL,Steelers,TRUE,2022,1,705000,705000,https://overthecap.com/player/daniel-archibong/9874/,9874,"6'6""",300,Temple,2021,NA,NA,Bears
+Tyler Clark,IDL,Commanders,TRUE,2022,1,705000,705000,https://overthecap.com/player/tyler-clark/9109/,9109,"6'4""",300,Georgia,2020,NA,NA,Bengals
+Lacale London,IDL,Bears,TRUE,2022,1,705000,705000,https://overthecap.com/player/lacale-london/9411/,9411,"6'5""",280,Western Illinois,2020,NA,NA,Bears
+Jonathan Ledbetter,IDL,Cardinals,TRUE,2022,1,705000,705000,https://overthecap.com/player/jonathan-ledbetter/8250/,8250,"6'4""",280,Georgia,2019,NA,NA,Dolphins
+Jarrod Hewitt,IDL,Seahawks,TRUE,2022,1,705000,705000,https://overthecap.com/player/jarrod-hewitt/9976/,9976,"6'1""",280,Virginia Tech,2021,NA,NA,Seahawks
+Bill Murray,IDL,Patriots,TRUE,2022,1,705000,705000,https://overthecap.com/player/bill-murray/9277/,9277,"6'4""",280,William & Mary,2020,NA,NA,Patriots
+T.J. Smith,IDL,Vikings,TRUE,2022,1,705000,705000,https://overthecap.com/player/t-j-smith/9089/,9089,"6'3""",293,Arkansas,2020,NA,NA,Chargers
+Tyler Lancaster,IDL,Raiders,TRUE,2022,1,0,0,https://overthecap.com/player/tyler-lancaster/7445/,7445,"6'3""",313,Northwestern,2018,NA,NA,Packers
+Morgan Fox,IDL,Chargers,TRUE,2022,1,0,0,https://overthecap.com/player/morgan-fox/5191/,5191,NA,NA,Colorado State-Pueblo,2016,NA,NA,Rams
+Brent Urban,IDL,Ravens,TRUE,2022,1,0,0,https://overthecap.com/player/brent-urban/3073/,3073,"6'7""",295,Virginia,2014,4,134,Ravens
+T.J. Watt,ED,Steelers,TRUE,2021,4,112011000,28002750,https://overthecap.com/player/t-j-watt/5614/,5614,"6'4""",252,Wisconsin,2017,1,30,Steelers
+Joey Bosa,ED,Chargers,TRUE,2020,5,135000000,27000000,https://overthecap.com/player/joey-bosa/4716/,4716,"6'5""",269,Ohio State,2016,1,3,Chargers
+Khalil Mack,ED,CHI/LAC,TRUE,2018,6,141000000,23500000,https://overthecap.com/player/khalil-mack/2944/,2944,"6'3""",251,Buffalo,2014,1,5,Raiders
+Myles Garrett,ED,Browns,TRUE,2020,5,125000000,25000000,https://overthecap.com/player/myles-garrett/5585/,5585,"6'4""",272,Texas A&M,2017,1,1,Browns
+Maxx Crosby,ED,Raiders,TRUE,2022,4,94000000,23500000,https://overthecap.com/player/maxx-crosby/7897/,7897,"6'5""",247,Eastern Michigan,2019,4,106,Raiders
+Von Miller,ED,Bills,TRUE,2022,6,120000000,20000000,https://overthecap.com/player/von-miller/2/,2,"6'3""",250,Texas A&M,2011,1,2,Broncos
+Shaquil Barrett,ED,Buccaneers,TRUE,2021,4,68000000,17000000,https://overthecap.com/player/shaquil-barrett/3340/,3340,"6'1""",260,Colorado State,2014,NA,NA,Broncos
+Cameron Jordan,ED,Saints,TRUE,2019,3,52500000,17500000,https://overthecap.com/player/cameron-jordan/1481/,1481,"6'4""",287,California,2011,1,24,Saints
+Bud Dupree,ED,Titans,TRUE,2021,5,82500000,16500000,https://overthecap.com/player/bud-dupree/3870/,3870,"6'4""",269,Kentucky,2015,1,22,Steelers
+Leonard Floyd,ED,Rams,TRUE,2021,4,64000000,16000000,https://overthecap.com/player/leonard-floyd/4722/,4722,"6'6""",244,Georgia,2016,1,9,Bears
+Arik Armstead,ED,49ers,TRUE,2020,5,85000000,17000000,https://overthecap.com/player/arik-armstead/3865/,3865,"6'7""",292,Oregon,2015,1,17,NA
+Harold Landry,ED,Titans,TRUE,2022,5,87500000,17500000,https://overthecap.com/player/harold-landry/6926/,6926,"6'3""",250,Boston College,2018,2,41,Titans
+Trey Hendrickson,ED,Bengals,TRUE,2021,4,60000000,15000000,https://overthecap.com/player/trey-hendrickson/5689/,5689,"6'4""",266,Florida Atlantic,2017,3,103,Saints
+Carl Lawson,ED,Jets,TRUE,2021,3,45000000,15000000,https://overthecap.com/player/carl-lawson/5702/,5702,"6'2""",261,Auburn,2017,4,116,Bengals
+Chandler Jones,ED,Raiders,TRUE,2022,3,51000000,17000000,https://overthecap.com/player/chandler-jones/1206/,1206,"6'5""",265,Syracuse,2012,1,21,Patriots
+Danielle Hunter,ED,Vikings,TRUE,2018,5,72000000,14400000,https://overthecap.com/player/danielle-hunter/3936/,3936,"6'5""",252,LSU,2015,3,88,Vikings
+Emmanuel Ogbah,ED,Dolphins,TRUE,2022,4,65400000,16350000,https://overthecap.com/player/emmanuel-ogbah/4745/,4745,"6'4""",273,Oklahoma State,2016,2,32,Browns
+John Franklin-Myers,ED,Jets,TRUE,2021,4,55000000,13750000,https://overthecap.com/player/john-franklin-myers/7020/,7020,"6'4""",292,Stephen F. Austin,2018,4,135,Rams
+Matt Judon,ED,Patriots,TRUE,2021,4,54500000,13625000,https://overthecap.com/player/matt-judon/4859/,4859,"6'3""",275,Grand Valley State,2016,5,146,Ravens
+Josh Sweat,ED,Eagles,TRUE,2021,3,40000000,13333333,https://overthecap.com/player/josh-sweat/7015/,7015,"6'5""",250,Florida State,2018,4,130,Eagles
+Haason Reddick,ED,Eagles,TRUE,2022,3,45000000,15000000,https://overthecap.com/player/haason-reddick/5597/,5597,"6'1""",237,Temple,2017,1,13,Cardinals
+Yannick Ngakoue,ED,IND/LV,TRUE,2021,2,26000000,13000000,https://overthecap.com/player/yannick-ngakoue/4782/,4782,"6'2""",252,Maryland,2016,3,69,Jaguars
+Robert Quinn,ED,Bears,TRUE,2020,5,70000000,14000000,https://overthecap.com/player/robert-quinn/1343/,1343,"6'4""",264,North Carolina,2011,1,14,Rams
+Frank Clark,ED,Chiefs,TRUE,2022,2,29000000,14500000,https://overthecap.com/player/frank-clark/3911/,3911,"6'3""",271,Michigan,2015,2,63,Seahawks
+Romeo Okwara,ED,Lions,TRUE,2021,3,37000000,12333333,https://overthecap.com/player/romeo-okwara/5296/,5296,"6'5""",265,Notre Dame,2016,NA,NA,Giants
+Za'Darius Smith,ED,Vikings,TRUE,2022,3,42000000,14000000,https://overthecap.com/player/zadarius-smith/3970/,3970,"6'6""",263,Kentucky,2015,4,122,Ravens
+Randy Gregory,ED,Broncos,TRUE,2022,5,69500000,13900000,https://overthecap.com/player/randy-gregory/3908/,3908,"6'5""",235,Nebraska,2015,2,60,Cowboys
+Demarcus Lawrence,ED,Cowboys,TRUE,2022,3,40000000,13333333,https://overthecap.com/player/demarcus-lawrence/2973/,2973,"6'3""",251,Boise State,2014,2,34,Cowboys
+Preston Smith,ED,Packers,TRUE,2022,4,52000000,13000000,https://overthecap.com/player/preston-smith/3886/,3886,"6'5""",271,Mississippi State,2015,2,38,Commanders
+Sam Hubbard,ED,Bengals,TRUE,2021,4,40000000,10000000,https://overthecap.com/player/sam-hubbard/6962/,6962,"6'5""",265,Ohio State,2018,3,77,Bengals
+Brandon Graham,ED,Eagles,TRUE,2021,2,18500000,9250000,https://overthecap.com/player/brandon-graham/725/,725,"6'2""",265,Michigan,2010,1,13,Eagles
+Jadeveon Clowney,ED,Browns,TRUE,2022,1,10000000,10000000,https://overthecap.com/player/jadeveon-clowney/2940/,2940,"6'6""",274,South Carolina,2014,1,1,Texans
+Uchenna Nwosu,ED,Seahawks,TRUE,2022,2,19055000,9527500,https://overthecap.com/player/uchenna-nwosu/6933/,6933,"6'2""",240,USC,2018,2,48,Chargers
+Travon Walker,ED,Jaguars,TRUE,2022,4,37372624,9343156,https://overthecap.com/player/travon-walker/10046/,10046,"6'5""",272,Georgia,2022,1,1,Jaguars
+Nick Bosa,ED,49ers,TRUE,2019,4,33551866,8387967,https://overthecap.com/player/nick-bosa/7793/,7793,"6'4""",263,Ohio State,2019,1,2,NA
+Chase Young,ED,Commanders,TRUE,2020,4,34563598,8640900,https://overthecap.com/player/chase-young/8742/,8742,"6'5""",265,Ohio State,2020,1,2,Commanders
+Aidan Hutchinson,ED,Lions,TRUE,2022,4,35715388,8928847,https://overthecap.com/player/aidan-hutchinson/10047/,10047,"6'6""",268,Michigan,2022,1,2,Lions
+Clelin Ferrell,ED,Raiders,TRUE,2019,4,31360816,7840204,https://overthecap.com/player/clelin-ferrell/7795/,7795,"6'5""",260,Clemson,2019,1,4,Raiders
+Bradley Chubb,ED,Broncos,TRUE,2018,4,27271240,6817810,https://overthecap.com/player/bradley-chubb/6890/,6890,"6'4""",269,North Carolina State,2018,1,5,Broncos
+Dee Ford,ED,49ers,TRUE,2021,2,14000000,7000000,https://overthecap.com/player/dee-ford/2962/,2962,"6'2""",252,Auburn,2014,1,23,Chiefs
+Kayvon Thibodeaux,ED,Giants,TRUE,2022,4,31339040,7834760,https://overthecap.com/player/kayvon-thibodeaux/10050/,10050,"6'4""",256,Oregon,2022,1,5,Giants
+Derek Barnett,ED,Eagles,TRUE,2022,2,14000000,7000000,https://overthecap.com/player/derek-barnett/5598/,5598,"6'3""",259,Tennessee,2017,1,14,Eagles
+Samson Ebukam,ED,49ers,TRUE,2021,2,12000000,6000000,https://overthecap.com/player/samson-ebukam/5711/,5711,"6'3""",240,Eastern Washington,2017,4,125,Rams
+Charles Harris,ED,Lions,TRUE,2022,2,13000000,6500000,https://overthecap.com/player/charles-harris/5606/,5606,"6'3""",253,Missouri,2017,1,22,Dolphins
+Josh Allen,ED,Jaguars,TRUE,2019,4,22742636,5685659,https://overthecap.com/player/josh-allen/7798/,7798,"6'5""",252,Kentucky,2019,1,7,Jaguars
+Deatrich Wise,ED,Patriots,TRUE,2021,4,22000000,5500000,https://overthecap.com/player/deatrich-wise/5717/,5717,"6'5""",274,Arkansas,2017,4,131,Patriots
+Tyus Bowser,ED,Ravens,TRUE,2021,4,22000000,5500000,https://overthecap.com/player/tyus-bowser/5633/,5633,"6'3""",247,Houston,2017,2,47,Ravens
+Dawuane Smoot,ED,Jaguars,TRUE,2021,2,10000000,5000000,https://overthecap.com/player/dawuane-smoot/5654/,5654,"6'3""",264,Illinois,2017,3,68,Jaguars
+Jerry Hughes,ED,Texans,TRUE,2022,2,10000000,5000000,https://overthecap.com/player/jerry-hughes/566/,566,"6'2""",254,TCU,2010,1,31,Colts
+Jacob Martin,ED,Jets,TRUE,2022,3,13500000,4500000,https://overthecap.com/player/jacob-martin/7071/,7071,"6'2""",250,Temple,2018,6,186,Seahawks
+Frankie Luvu,ED,Panthers,TRUE,2022,2,9000000,4500000,https://overthecap.com/player/frankie-luvu/7245/,7245,"6'3""",235,Washington State,2018,NA,NA,Jets
+Rashan Gary,ED,Packers,TRUE,2019,4,15877312,3969328,https://overthecap.com/player/rashan-gary/7803/,7803,"6'5""",283,Michigan,2019,1,12,Packers
+Marcus Davenport,ED,Saints,TRUE,2018,4,13741900,3435475,https://overthecap.com/player/marcus-davenport/6899/,6899,"6'6""",264,UTSA,2018,1,14,Saints
+Melvin Ingram,ED,Dolphins,TRUE,2022,1,4000000,4000000,https://overthecap.com/player/melvin-ingram/467/,467,"6'1""",265,South Carolina,2012,1,18,Chargers
+Al-Quadin Muhammad,ED,Bears,TRUE,2022,2,8000000,4000000,https://overthecap.com/player/al-quadin-muhammad/5782/,5782,"6'3""",253,Miami,2017,6,196,Saints
+Arden Key,ED,Jaguars,TRUE,2022,1,4000000,4000000,https://overthecap.com/player/arden-key/6972/,6972,"6'6""",265,LSU,2018,3,87,Raiders
+Jaelan Phillips,ED,Dolphins,TRUE,2021,4,14018206,3504552,https://overthecap.com/player/jaelan-phillips/9482/,9482,"6'5""",266,Miami,2021,1,18,Dolphins
+Kwity Paye,ED,Colts,TRUE,2021,4,13644836,3411209,https://overthecap.com/player/kwity-paye/9485/,9485,"6'4""",272,Michigan,2021,1,21,Colts
+Mario Addison,ED,Texans,TRUE,2022,2,7700000,3850000,https://overthecap.com/player/mario-addison/1185/,1185,"6'3""",260,Troy,2011,NA,NA,Bears
+Brian Burns,ED,Panthers,TRUE,2019,4,13540182,3385046,https://overthecap.com/player/brian-burns/7807/,7807,"6'5""",218,Florida State,2019,1,16,Panthers
+Payton Turner,ED,Saints,TRUE,2021,4,12524736,3131184,https://overthecap.com/player/payton-turner/9492/,9492,"6'6""",270,Houston,2021,1,28,Saints
+K'Lavon Chaisson,ED,Jaguars,TRUE,2020,4,13344610,3336153,https://overthecap.com/player/klavon-chaisson/8760/,8760,"6'4""",250,LSU,2020,1,20,Jaguars
+Lorenzo Carter,ED,Falcons,TRUE,2022,1,3500000,3500000,https://overthecap.com/player/lorenzo-carter/6951/,6951,"6'6""",243,Georgia,2018,3,66,Giants
+Jordan Jenkins,ED,Texans,TRUE,2021,2,6000000,3000000,https://overthecap.com/player/jordan-jenkins/4796/,4796,"6'3""",259,Georgia,2016,3,83,Jets
+Dennis Gardeck,ED,Cardinals,TRUE,2022,3,10000000,3333333,https://overthecap.com/player/dennis-gardeck/7530/,7530,"6'1""",242,Sioux Falls,2018,NA,NA,Cardinals
+Gregory Rousseau,ED,Bills,TRUE,2021,4,11608190,2902048,https://overthecap.com/player/gregory-rousseau/9494/,9494,"6'6""",260,Miami,2021,1,30,Bills
+Jermaine Johnson II,ED,Jets,TRUE,2022,4,13087444,3271861,https://overthecap.com/player/jermaine-johnson-ii/10071/,10071,"6'5""",260,Florida State,2022,1,26,Jets
+Ogbonnia Okoronkwo,ED,Texans,TRUE,2022,1,3250000,3250000,https://overthecap.com/player/ogbonnia-okoronkwo/7045/,7045,"6'1""",240,Oklahoma,2018,5,160,Rams
+Odafe Oweh,ED,Ravens,TRUE,2021,4,11342390,2835597,https://overthecap.com/player/odafe-oweh/9495/,9495,"6'5""",252,Penn State,2021,1,31,Ravens
+Montez Sweat,ED,Commanders,TRUE,2019,4,11641260,2910315,https://overthecap.com/player/montez-sweat/7817/,7817,"6'6""",245,Mississippi State,2019,1,26,Commanders
+Joe Tryon-Shoyinka,ED,Buccaneers,TRUE,2021,4,11171244,2792811,https://overthecap.com/player/joe-tryon-shoyinka/9496/,9496,"6'5""",262,Washington,2021,1,32,Buccaneers
+Jeremiah Attaochu,ED,Bears,TRUE,2021,2,5550000,2775000,https://overthecap.com/player/jeremiah-attaochu/2989/,2989,"6'3""",242,Georgia Tech,2014,2,50,Chargers
+Tarell Basham,ED,Cowboys,TRUE,2021,2,5500000,2750000,https://overthecap.com/player/tarell-basham/5666/,5666,"6'4""",269,Ohio,2017,3,80,Colts
+Dante Fowler Jr.,ED,Cowboys,TRUE,2022,1,3000000,3000000,https://overthecap.com/player/dante-fowler-jr/3851/,3851,"6'3""",261,Florida,2015,1,3,Jaguars
+L.J. Collier,ED,Seahawks,TRUE,2019,4,10836078,2709020,https://overthecap.com/player/l-j-collier/7820/,7820,"6'4""",276,TCU,2019,1,29,Seahawks
+George Karlaftis,ED,Chiefs,TRUE,2022,4,11935476,2983869,https://overthecap.com/player/george-karlaftis/10075/,10075,"6'4""",263,Purdue,2022,1,30,Chiefs
+Markus Golden,ED,Cardinals,TRUE,2021,2,5000000,2500000,https://overthecap.com/player/markus-golden/3906/,3906,"6'2""",260,Missouri,2015,2,58,Cardinals
+Marquis Haynes,ED,Panthers,TRUE,2022,2,5500000,2750000,https://overthecap.com/player/marquis-haynes/7021/,7021,"6'3""",230,Ole Miss,2018,4,136,Panthers
+Rasheem Green,ED,Texans,TRUE,2022,1,2750000,2750000,https://overthecap.com/player/rasheem-green/6964/,6964,"6'4""",275,USC,2018,3,79,Seahawks
+Carl Granderson,ED,Saints,TRUE,2022,2,5265000,2632500,https://overthecap.com/player/carl-granderson/8353/,8353,"6'5""",254,Wyoming,2019,NA,NA,Saints
+Tanoh Kpassagnon,ED,Saints,TRUE,2021,2,4500000,2250000,https://overthecap.com/player/tanoh-kpassagnon/5645/,5645,"6'7""",289,Villanova,2017,2,59,Chiefs
+Tyquan Lewis,ED,Colts,TRUE,2022,1,2545000,2545000,https://overthecap.com/player/tyquan-lewis/6949/,6949,"6'4""",265,Ohio State,2018,2,64,Colts
+Malik Reed,ED,Broncos,TRUE,2022,1,2433000,2433000,https://overthecap.com/player/malik-reed/8065/,8065,"6'1""",237,Nevada,2019,NA,NA,Broncos
+Arnold Ebiketie,ED,Falcons,TRUE,2022,4,9694450,2423613,https://overthecap.com/player/arnold-ebiketie/10083/,10083,"6'3""",247,Penn State,2022,2,38,Falcons
+Boye Mafe,ED,Seahawks,TRUE,2022,4,9392574,2348144,https://overthecap.com/player/boye-mafe/10085/,10085,"6'4""",257,Minnesota,2022,2,40,Seahawks
+Justin Houston,ED,Ravens,TRUE,2022,1,2283000,2283000,https://overthecap.com/player/justin-houston/517/,517,"6'3""",258,Georgia,2011,3,70,Chiefs
+Solomon Thomas,ED,Jets,TRUE,2022,1,2250000,2250000,https://overthecap.com/player/solomon-thomas/5587/,5587,"6'3""",273,Stanford,2017,1,3,NA
+Kyle Van Noy,ED,Chargers,TRUE,2022,1,2250000,2250000,https://overthecap.com/player/kyle-van-noy/2979/,2979,"6'3""",245,BYU,2014,2,40,Lions
+David Ojabo,ED,Ravens,TRUE,2022,4,8623670,2155918,https://overthecap.com/player/david-ojabo/10090/,10090,"6'5""",230,Michigan,2022,2,45,Ravens
+Yetur Gross-Matos,ED,Panthers,TRUE,2020,4,8198828,2049707,https://overthecap.com/player/yetur-gross-matos/8778/,8778,"6'5""",264,Penn State,2020,2,38,Panthers
+Josh Paschal,ED,Lions,TRUE,2022,4,8419466,2104867,https://overthecap.com/player/josh-paschal/10091/,10091,"6'3""",270,Kentucky,2022,2,46,Lions
+Henry Anderson,ED,Patriots,TRUE,2022,1,2000000,2000000,https://overthecap.com/player/henry-anderson/3941/,3941,"6'6""",294,Stanford,2015,3,93,Colts
+Azeez Ojulari,ED,Giants,TRUE,2021,4,6774914,1693729,https://overthecap.com/player/azeez-ojulari/9514/,9514,"6'3""",240,Georgia,2021,2,50,Giants
+Darrell Taylor,ED,Seahawks,TRUE,2020,4,6764512,1691128,https://overthecap.com/player/darrell-taylor/8788/,8788,"6'3""",267,Tennessee,2020,2,48,Seahawks
+Dayo Odeyingbo,ED,Colts,TRUE,2021,4,6177530,1544383,https://overthecap.com/player/dayo-odeyingbo/9518/,9518,"6'6""",276,Vanderbilt,2021,2,54,Colts
+Ben Banogu,ED,Colts,TRUE,2019,4,5944506,1486127,https://overthecap.com/player/ben-banogu/7840/,7840,"6'4""",249,TCU,2019,2,49,Colts
+Carlos Basham Jr.,ED,Bills,TRUE,2021,4,5624942,1406236,https://overthecap.com/player/carlos-basham-jr/9525/,9525,"6'5""",285,Wake Forest,2021,2,61,Bills
+Drake Jackson,ED,49ers,TRUE,2022,4,6249510,1562378,https://overthecap.com/player/drake-jackson/10106/,10106,"6'3""",273,USC,2022,2,61,NA
+Sam Williams,ED,Cowboys,TRUE,2022,4,6224254,1556064,https://overthecap.com/player/sam-williams/10101/,10101,"6'4""",258,Mississippi,2022,2,56,Cowboys
+A.J. Epenesa,ED,Bills,TRUE,2020,4,5877304,1469326,https://overthecap.com/player/a-j-epenesa/8794/,8794,"6'5""",275,Iowa,2020,2,54,Bills
+Kerry Hyder,ED,49ers,TRUE,2022,1,1500000,1500000,https://overthecap.com/player/kerry-hyder/3503/,3503,"6'2""",270,Texas Tech,2014,NA,NA,Jets
+Joseph Ossai,ED,Bengals,TRUE,2021,4,5192616,1298154,https://overthecap.com/player/joseph-ossai/9533/,9533,"6'4""",253,Texas,2021,3,69,Bengals
+Nik Bonitto,ED,Broncos,TRUE,2022,4,5801888,1450472,https://overthecap.com/player/nik-bonitto/10109/,10109,"6'3""",248,Oklahoma,2022,2,64,Broncos
+Malcolm Koonce,ED,Raiders,TRUE,2021,4,4997960,1249490,https://overthecap.com/player/malcolm-koonce/9543/,9543,"6'3""",250,Buffalo,2021,3,79,Raiders
+Josh Uche,ED,Patriots,TRUE,2020,4,5389336,1347334,https://overthecap.com/player/josh-uche/8800/,8800,"6'2""",250,Michigan,2020,2,60,Patriots
+Chauncey Golston,ED,Cowboys,TRUE,2021,4,4916586,1229147,https://overthecap.com/player/chauncey-golston/9548/,9548,"6'5""",270,Iowa,2021,3,84,Cowboys
+Patrick Jones II,ED,Vikings,TRUE,2021,4,4870096,1217524,https://overthecap.com/player/patrick-jones-ii/9554/,9554,"6'5""",260,Pittsburgh,2021,3,90,Vikings
+Ronnie Perkins,ED,Patriots,TRUE,2021,4,4737991,1184498,https://overthecap.com/player/ronnie-perkins/9560/,9560,"6'3""",247,Oklahoma,2021,3,96,Patriots
+Cameron Thomas,ED,Cardinals,TRUE,2022,4,5368858,1342215,https://overthecap.com/player/cameron-thomas/10132/,10132,"6'4""",267,San Diego State,2022,3,87,Cardinals
+Alex Wright,ED,Browns,TRUE,2022,4,5293574,1323394,https://overthecap.com/player/alex-wright/10123/,10123,"6'5""",272,UAB,2022,3,78,Browns
+DeAngelo Malone,ED,Falcons,TRUE,2022,4,5229582,1307396,https://overthecap.com/player/deangelo-malone/10127/,10127,"6'3""",239,Western Kentucky,2022,3,82,Falcons
+Julian Okwara,ED,Lions,TRUE,2020,4,4931340,1232835,https://overthecap.com/player/julian-okwara/8807/,8807,"6'4""",248,Notre Dame,2020,3,67,Lions
+Kentavius Street,ED,Saints,TRUE,2022,1,1265000,1265000,https://overthecap.com/player/kentavius-street/7013/,7013,"6'2""",287,North Carolina State,2018,4,128,NA
+Myjai Sanders,ED,Cardinals,TRUE,2022,4,5044904,1261226,https://overthecap.com/player/myjai-sanders/10145/,10145,"6'5""",247,Cincinnati,2022,3,100,Cardinals
+Cameron Sample,ED,Bengals,TRUE,2021,4,4268148,1067037,https://overthecap.com/player/cameron-sample/9575/,9575,"6'3""",280,Tulane,2021,4,111,Bengals
+Elerson Smith,ED,Giants,TRUE,2021,4,4238288,1059572,https://overthecap.com/player/elerson-smith/9580/,9580,"6'6""",245,Northern Iowa,2021,4,116,Giants
+Chris Rumph II,ED,Chargers,TRUE,2021,4,4233540,1058385,https://overthecap.com/player/chris-rumph-ii/9582/,9582,"6'4""",235,Duke,2021,4,118,Chargers
+Jordan Smith,ED,Jaguars,TRUE,2021,4,4219588,1054897,https://overthecap.com/player/jordan-smith/9585/,9585,"6'7""",255,UAB,2021,4,121,Jaguars
+Stephen Weatherly,ED,Browns,TRUE,2022,1,1200000,1200000,https://overthecap.com/player/stephen-weatherly/4940/,4940,"6'4""",267,Vanderbilt,2016,7,227,Vikings
+Derek Rivers,ED,Texans,TRUE,2021,2,2100000,1050000,https://overthecap.com/player/derek-rivers/5669/,5669,"6'4""",248,Youngstown State,2017,3,83,Patriots
+Terrell Lewis,ED,Rams,TRUE,2020,4,4555570,1138893,https://overthecap.com/player/terrell-lewis/8824/,8824,"6'5""",262,Alabama,2020,3,84,Rams
+Shaq Lawson,ED,Bills,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/shaq-lawson/4732/,4732,"6'3""",269,Clemson,2016,1,19,Bills
+Efe Obada,ED,Commanders,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/efe-obada/3831/,3831,"6'6""",255,Lambeth College,2015,NA,NA,Cowboys
+Jihad Ward,ED,Giants,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/jihad-ward/4757/,4757,"6'5""",297,Illinois,2016,2,44,Raiders
+Kyler Fackrell,ED,Raiders,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/kyler-fackrell/4801/,4801,"6'5""",245,Utah State,2016,3,88,Packers
+Olasunkanmi Adeniyi,ED,Titans,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/olasunkanmi-adeniyi/7288/,7288,"6'1""",248,Toledo,2018,NA,NA,Steelers
+Anfernee Jennings,ED,Patriots,TRUE,2020,4,4503929,1125982,https://overthecap.com/player/anfernee-jennings/8827/,8827,"6'3""",259,Alabama,2020,3,87,Patriots
+Janarius Robinson,ED,Vikings,TRUE,2021,4,4145400,1036350,https://overthecap.com/player/janarius-robinson/9598/,9598,"6'5""",260,Florida State,2021,4,134,Vikings
+Rashad Weaver,ED,Titans,TRUE,2021,4,4139664,1034916,https://overthecap.com/player/rashad-weaver/9599/,9599,"6'5""",270,Pittsburgh,2021,4,135,Titans
+Jonathan Greenard,ED,Texans,TRUE,2020,4,4475554,1118889,https://overthecap.com/player/jonathan-greenard/8830/,8830,"6'3""",263,Florida,2020,3,90,Texans
+Joshua Kaindoh,ED,Chiefs,TRUE,2021,4,3979344,994836,https://overthecap.com/player/joshua-kaindoh/9608/,9608,"6'7""",265,Florida State,2021,4,144,Chiefs
+Alex Highsmith,ED,Steelers,TRUE,2020,4,4306810,1076703,https://overthecap.com/player/alex-highsmith/8842/,8842,"6'4""",242,Charlotte,2020,3,102,Steelers
+Vinny Curry,ED,Jets,TRUE,2022,1,1120000,1120000,https://overthecap.com/player/vinny-curry/786/,786,"6'3""",279,Marshall,2012,2,59,Eagles
+Jordan Willis,ED,49ers,TRUE,2022,1,1110000,1110000,https://overthecap.com/player/jordan-willis/5659/,5659,"6'4""",255,Kansas State,2017,3,73,Bengals
+Micheal Clemons,ED,Jets,TRUE,2022,4,4424096,1106024,https://overthecap.com/player/micheal-clemons/10162/,10162,"6'6""",265,Texas A&M,2022,4,117,Jets
+Daelin Hayes,ED,Ravens,TRUE,2021,4,3773216,943304,https://overthecap.com/player/daelin-hayes/9635/,9635,"6'4""",270,Notre Dame,2021,5,171,Ravens
+D.J. Wonnum,ED,Vikings,TRUE,2020,4,4045780,1011445,https://overthecap.com/player/d-j-wonnum/8857/,8857,"6'5""",260,South Carolina,2020,4,117,Vikings
+Adetokunbo Ogundeji,ED,Falcons,TRUE,2021,4,3720152,930038,https://overthecap.com/player/adetokunbo-ogundeji/9646/,9646,"6'4""",268,Notre Dame,2021,5,182,Falcons
+Tarron Jackson,ED,Eagles,TRUE,2021,4,3669756,917439,https://overthecap.com/player/tarron-jackson/9655/,9655,"6'2""",260,Coastal Carolina,2021,6,191,Eagles
+Jaylen Twyman,ED,Vikings,TRUE,2021,4,3654940,913735,https://overthecap.com/player/jaylen-twyman/9663/,9663,"6'2""",290,Pittsburgh,2021,6,199,Vikings
+Victor Dimukeje,ED,Cardinals,TRUE,2021,4,3641860,910465,https://overthecap.com/player/victor-dimukeje/9674/,9674,"6'3""",265,Duke,2021,6,210,Cardinals
+Jacob Tuioti-Mariner,ED,Panthers,TRUE,2021,2,1815000,907500,https://overthecap.com/player/jacob-tuioti-mariner/7657/,7657,"6'2""",262,UCLA,2018,NA,NA,Falcons
+Daeshon Hall,ED,Dolphins,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/daeshon-hall/5663/,5663,"6'5""",266,Texas A&M,2017,3,77,Panthers
+Taco Charlton,ED,Saints,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/taco-charlton/5612/,5612,"6'6""",277,Michigan,2017,1,28,Cowboys
+Tashawn Bower,ED,Raiders,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/tashawn-bower/5892/,5892,"6'5""",236,LSU,2017,NA,NA,Vikings
+Demone Harris,ED,Texans,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/demone-harris/7518/,7518,"6'4""",272,Buffalo,2018,NA,NA,Buccaneers
+Shilique Calhoun,ED,Chiefs,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/shilique-calhoun/4788/,4788,"6'4""",251,Michigan State,2016,3,75,Raiders
+Da'Shawn Hand,ED,Titans,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/dashawn-hand/6999/,6999,"6'4""",288,Alabama,2018,4,114,Lions
+Quincy Roche,ED,NYG/PIT,TRUE,2021,4,3626576,906644,https://overthecap.com/player/quincy-roche/9680/,9680,"6'3""",245,Miami,2021,6,216,Steelers
+Wyatt Hubert,ED,Bengals,TRUE,2021,4,3584204,896051,https://overthecap.com/player/wyatt-hubert/9699/,9699,"6'3""",270,Kansas State,2021,7,235,Bengals
+Jonathon Cooper,ED,Broncos,TRUE,2021,4,3580672,895168,https://overthecap.com/player/jonathon-cooper/9703/,9703,"6'4""",257,Ohio State,2021,7,239,Broncos
+Shaka Toney,ED,Commanders,TRUE,2021,4,3572952,893238,https://overthecap.com/player/shaka-toney/9710/,9710,"6'3""",252,Penn State,2021,7,246,Commanders
+Chris Garrett,ED,Rams,TRUE,2021,4,3562116,890529,https://overthecap.com/player/chris-garrett/9716/,9716,"6'4""",245,Concordia-St. Paul,2021,7,252,Rams
+Jaylon Ferguson,ED,Ravens,TRUE,2019,4,3654808,913702,https://overthecap.com/player/jaylon-ferguson/7876/,7876,"6'5""",262,Louisiana Tech,2019,3,85,Ravens
+Tyreke Smith,ED,Seahawks,TRUE,2022,4,3980972,995243,https://overthecap.com/player/tyreke-smith/10203/,10203,"6'3""",255,Ohio State,2022,5,158,Seahawks
+Esezi Otomewo,ED,Vikings,TRUE,2022,4,3969048,992262,https://overthecap.com/player/esezi-otomewo/10210/,10210,"6'5""",284,Minnesota,2022,5,165,Vikings
+Dominique Robinson,ED,Bears,TRUE,2022,4,3933152,983288,https://overthecap.com/player/dominique-robinson/10219/,10219,"6'5""",252,Miami (OH),2022,5,174,Bears
+Oshane Ximines,ED,Giants,TRUE,2019,4,3542780,885695,https://overthecap.com/player/oshane-ximines/7886/,7886,"6'4""",255,Old Dominion,2019,3,95,Giants
+Kingsley Enagbare,ED,Packers,TRUE,2022,4,3902556,975639,https://overthecap.com/player/kingsley-enagbare/10224/,10224,"6'4""",271,South Carolina,2022,5,179,Packers
+Kyron Johnson,ED,Eagles,TRUE,2022,4,3869928,967482,https://overthecap.com/player/kyron-johnson/10226/,10226,"6'0""",231,Kansas,2022,6,181,Eagles
+Jullian Taylor,ED,Vikings,TRUE,2022,1,965000,965000,https://overthecap.com/player/jullian-taylor/7108/,7108,"6'5""",280,Temple,2018,7,223,NA
+Emeke Egbule,ED,Chargers,TRUE,2022,1,965000,965000,https://overthecap.com/player/emeke-egbule/7991/,7991,"6'4""",240,Houston,2019,6,200,Chargers
+Amare Barno,ED,Panthers,TRUE,2022,4,3845408,961352,https://overthecap.com/player/amare-barno/10234/,10234,"6'5""",247,Virginia Tech,2022,6,189,Panthers
+Khalid Kareem,ED,Bengals,TRUE,2020,4,3649476,912369,https://overthecap.com/player/khalid-kareem/8887/,8887,"6'4""",265,Notre Dame,2020,5,147,Bengals
+Alton Robinson,ED,Seahawks,TRUE,2020,4,3646344,911586,https://overthecap.com/player/alton-robinson/8888/,8888,"6'4""",260,Syracuse,2020,5,148,Seahawks
+Derrek Tuszka,ED,Steelers,TRUE,2021,2,1675000,837500,https://overthecap.com/player/derrek-tuszka/8994/,8994,"6'5""",246,North Dakota State,2020,7,254,Broncos
+Jabari Zuniga,ED,Jets,TRUE,2021,2,1675000,837500,https://overthecap.com/player/jabari-zuniga/8819/,8819,"6'4""",246,Florida,2020,3,79,Jets
+Trevis Gipson,ED,Bears,TRUE,2020,4,3620672,905168,https://overthecap.com/player/trevis-gipson/8895/,8895,"6'4""",268,Tulsa,2020,5,155,Bears
+James Houston,ED,Lions,TRUE,2022,4,3792012,948003,https://overthecap.com/player/james-houston/10262/,10262,"6'0""",244,Jackson State,2022,6,217,Lions
+Cameron Goode,ED,Dolphins,TRUE,2022,4,3773256,943314,https://overthecap.com/player/cameron-goode/10269/,10269,"6'3""",232,California,2022,7,224,Dolphins
+Daniel Hardy,ED,Rams,TRUE,2022,4,3759704,939926,https://overthecap.com/player/daniel-hardy/10280/,10280,"6'3""",240,Montana State,2022,7,235,Rams
+Andre Anthony,ED,Buccaneers,TRUE,2022,4,3741540,935385,https://overthecap.com/player/andre-anthony/10293/,10293,"6'3""",245,LSU,2022,7,248,Buccaneers
+Mike Danna,ED,Chiefs,TRUE,2020,4,3558660,889665,https://overthecap.com/player/mike-danna/8917/,8917,"6'2""",261,Michigan,2020,5,177,Chiefs
+Jeffrey Gunter,ED,Bengals,TRUE,2022,4,3738036,934509,https://overthecap.com/player/jeffrey-gunter/10297/,10297,"6'4""",256,Coastal Carolina,2022,7,252,Bengals
+Jesse Luketa,ED,Cardinals,TRUE,2022,4,3737012,934253,https://overthecap.com/player/jesse-luketa/10301/,10301,"6'3""",257,Penn State,2022,7,256,Cardinals
+Malik Herring,ED,Chiefs,TRUE,2021,3,2450000,816667,https://overthecap.com/player/malik-herring/9814/,9814,"6'3""",280,Georgia,2021,NA,NA,Chiefs
+Darius Hodge,ED,MIA/CIN,TRUE,2021,3,2450000,816667,https://overthecap.com/player/darius-hodge/9763/,9763,"6'2""",245,Marshall,2021,NA,NA,Bengals
+Aaron Patrick,ED,Broncos,TRUE,2021,1,2435000,811667,https://overthecap.com/player/aaron-patrick/9446/,9446,"6'4""",245,Eastern Kentucky,2020,NA,NA,Jaguars
+Anthony Nelson,ED,Buccaneers,TRUE,2019,4,3295040,823760,https://overthecap.com/player/anthony-nelson/7898/,7898,"6'7""",271,Iowa,2019,4,107,Buccaneers
+Bradlee Anae,ED,Jets,TRUE,2022,1,905000,905000,https://overthecap.com/player/bradlee-anae/8919/,8919,"6'3""",265,Utah,2020,5,179,Cowboys
+Austin Bryant,ED,Lions,TRUE,2019,4,3252632,813158,https://overthecap.com/player/austin-bryant/7908/,7908,"6'5""",265,Clemson,2019,4,117,Lions
+Justin Lawler,ED,Titans,TRUE,2022,1,895000,895000,https://overthecap.com/player/justin-lawler/7129/,7129,"6'4""",265,SMU,2018,7,244,Rams
+Jessie Lemonier,ED,Cardinals,TRUE,2022,1,895000,895000,https://overthecap.com/player/jessie-lemonier/9084/,9084,"6'3""",240,Liberty,2020,NA,NA,Chargers
+Austin Larkin,ED,Panthers,TRUE,2022,1,895000,895000,https://overthecap.com/player/austin-larkin/7348/,7348,"6'3""",254,Purdue,2018,NA,NA,Cowboys
+Tim Ward,ED,Jets,TRUE,2022,1,895000,895000,https://overthecap.com/player/tim-ward/8237/,8237,"6'6""",255,Old Dominion,2019,NA,NA,Chiefs
+Frank Herron,ED,Panthers,TRUE,2022,1,895000,895000,https://overthecap.com/player/frank-herron/7236/,7236,"6'4""",312,LSU,2018,NA,NA,Patriots
+James Smith-Williams,ED,Commanders,TRUE,2020,4,3392700,848175,https://overthecap.com/player/james-smith-williams/8969/,8969,"6'4""",265,North Carolina State,2020,7,229,Commanders
+Casey Toohill,ED,PHI/WAS,TRUE,2020,4,3387032,846758,https://overthecap.com/player/casey-toohill/8973/,8973,"6'4""",250,Stanford,2020,7,233,Eagles
+Mike Love,ED,Bills,TRUE,2022,2,1775000,887500,https://overthecap.com/player/mike-love/7215/,7215,"6'4""",266,South Florida,2018,NA,NA,Bills
+Jonathan Garvin,ED,Packers,TRUE,2020,4,3374284,843571,https://overthecap.com/player/jonathan-garvin/8982/,8982,"6'4""",263,Miami,2020,7,242,Packers
+Christopher Allen,ED,Broncos,TRUE,2022,3,2590000,863333,https://overthecap.com/player/christopher-allen/10311/,10311,"6'4""",238,Alabama,2022,NA,NA,Broncos
+Zach McCloud,ED,Vikings,TRUE,2022,3,2585000,861667,https://overthecap.com/player/zach-mccloud/10487/,10487,"6'2""",246,Miami,2022,NA,NA,Vikings
+Jeremiah Moon,ED,Ravens,TRUE,2022,3,2580000,860000,https://overthecap.com/player/jeremiah-moon/10391/,10391,"6'5""",247,Florida,2022,NA,NA,Ravens
+Arron Mosby,ED,Panthers,TRUE,2022,3,2580000,860000,https://overthecap.com/player/arron-mosby/10406/,10406,"6'3""",250,Fresno State,2022,NA,NA,Panthers
+Tariqious Tisdale,ED,Bengals,TRUE,2022,3,2580000,860000,https://overthecap.com/player/tariqious-tisdale/10510/,10510,"6'5""",285,Mississippi,2022,NA,NA,Bengals
+Zach VanValkenburg,ED,Raiders,TRUE,2022,3,2575000,858333,https://overthecap.com/player/zach-vanvalkenburg/10444/,10444,"6'5""",263,Iowa,2022,NA,NA,Raiders
+Jacub Panasiuk,ED,Commanders,TRUE,2022,3,2575000,858333,https://overthecap.com/player/jacub-panasiuk/10497/,10497,"6'3""",253,Michigan State,2022,NA,NA,Commanders
+De'Shaan Dixon,ED,Jaguars,TRUE,2022,3,2572000,857333,https://overthecap.com/player/deshaan-dixon/10522/,10522,"6'4""",247,Norfolk State,2022,NA,NA,Jaguars
+Myron Tagovailoa-Amosa,ED,Raiders,TRUE,2022,3,2570000,856667,https://overthecap.com/player/myron-tagovailoa-amosa/10542/,10542,"6'2""",270,Notre Dame,2022,NA,NA,Raiders
+Kingsley Jonathan,ED,Bills,TRUE,2022,3,2570000,856667,https://overthecap.com/player/kingsley-jonathan/10603/,10603,"6'3""",259,Syracuse,2022,NA,NA,Bills
+Carson Wells,ED,Bengals,TRUE,2022,3,2570000,856667,https://overthecap.com/player/carson-wells/10376/,10376,"6'3""",241,Colorado,2022,NA,NA,Bengals
+Tomon Fox,ED,Giants,TRUE,2022,3,2570000,856667,https://overthecap.com/player/tomon-fox/10527/,10527,"6'2""",253,North Carolina,2022,NA,NA,Giants
+Chauncey Manac,ED,Packers,TRUE,2022,3,2568000,856000,https://overthecap.com/player/chauncey-manac/10460/,10460,"6'3""",246,Louisiana,2022,NA,NA,Packers
+T.D. Moultry,ED,Steelers,TRUE,2022,3,2567500,855833,https://overthecap.com/player/t-d-moultry/10334/,10334,"6'0""",246,Auburn,2022,NA,NA,Steelers
+Charles Wiley,ED,Ravens,TRUE,2022,3,2567000,855667,https://overthecap.com/player/charles-wiley/10660/,10660,"6'2""",251,UTSA,2022,NA,NA,Ravens
+Big Kat Bryant,ED,Cowboys,TRUE,2022,3,2565000,855000,https://overthecap.com/player/big-kat-bryant/10633/,10633,"6'4""",254,Central Florida,2022,NA,NA,Cowboys
+Scott Patchan,ED,Colts,TRUE,2022,3,2565000,855000,https://overthecap.com/player/scott-patchan/10380/,10380,"6'4""",251,Colorado State,2022,NA,NA,Colts
+Mika Tafua,ED,Cowboys,TRUE,2022,3,2565000,855000,https://overthecap.com/player/mika-tafua/10654/,10654,"6'3""",249,Utah,2022,NA,NA,Cowboys
+Josh Onujiogu,ED,Seahawks,TRUE,2022,3,2565000,855000,https://overthecap.com/player/josh-onujiogu/10405/,10405,"6'3""",252,Framingham State,2022,NA,NA,Seahawks
+Keir Thomas,ED,Rams,TRUE,2022,3,2562500,854167,https://overthecap.com/player/keir-thomas/10404/,10404,"6'1""",255,Florida State,2022,NA,NA,Rams
+Daniel Joseph,ED,Bills,TRUE,2022,3,2562500,854167,https://overthecap.com/player/daniel-joseph/10792/,10792,"6'3""",265,North Carolina State,2022,NA,NA,Bills
+Ryder Anderson,ED,Giants,TRUE,2022,3,2562000,854000,https://overthecap.com/player/ryder-anderson/10438/,10438,"6'6""",276,Indiana,2022,NA,NA,Giants
+DaMarcus Mitchell,ED,Patriots,TRUE,2022,3,2560000,853333,https://overthecap.com/player/damarcus-mitchell/10578/,10578,"6'3""",260,Purdue,2022,NA,NA,Patriots
+Sam Okuayinonu,ED,Titans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/sam-okuayinonu/10473/,10473,"6'1""",269,Maryland,2022,NA,NA,Titans
+Tyree Johnson,ED,Steelers,TRUE,2022,3,2560000,853333,https://overthecap.com/player/tyree-johnson/10796/,10796,"6'3""",250,Texas A&M,2022,NA,NA,Steelers
+Joe Ozougwu,ED,Buccaneers,TRUE,2022,3,2560000,853333,https://overthecap.com/player/joe-ozougwu/10329/,10329,"6'2""",236,Arkansas State,2022,NA,NA,Buccaneers
+Troy Hairston II,ED,Texans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/troy-hairston-ii/10364/,10364,"6'1""",231,Central Michigan,2022,NA,NA,Texans
+Cullen Wick,ED,Colts,TRUE,2022,3,2560000,853333,https://overthecap.com/player/cullen-wick/10626/,10626,"6'4""",267,Tulsa,2022,NA,NA,Colts
+Demetrius Taylor,ED,Lions,TRUE,2022,3,2560000,853333,https://overthecap.com/player/demetrius-taylor/10316/,10316,"6'1""",289,Appalachian State,2022,NA,NA,Lions
+Benton Whitley,ED,Rams,TRUE,2022,3,2560000,853333,https://overthecap.com/player/benton-whitley/10777/,10777,"6'3""",257,Holy Cross,2022,NA,NA,Rams
+Ty Shelby,ED,Chargers,TRUE,2022,3,2560000,853333,https://overthecap.com/player/ty-shelby/10641/,10641,"6'4""",249,UL Monroe,2022,NA,NA,Chargers
+Owen Carney Jr.,ED,Dolphins,TRUE,2022,3,2560000,853333,https://overthecap.com/player/owen-carney-jr/10431/,10431,"6'3""",269,Illinois,2022,NA,NA,Dolphins
+Carson Taylor,ED,Bears,TRUE,2022,3,2560000,853333,https://overthecap.com/player/carson-taylor/10534/,10534,"6'4""",241,Northern Arizona,2022,NA,NA,Bears
+Ali Fayad,ED,Eagles,TRUE,2022,3,2560000,853333,https://overthecap.com/player/ali-fayad/10687/,10687,"6'2""",248,Western Michigan,2022,NA,NA,Eagles
+Brayden Thomas,ED,Rams,TRUE,2022,3,2560000,853333,https://overthecap.com/player/brayden-thomas/10776/,10776,"6'3""",258,North Dakota State,2022,NA,NA,Rams
+William Bradley-King,ED,Commanders,TRUE,2021,2,1485000,742500,https://overthecap.com/player/william-bradley-king/9704/,9704,"6'4""",248,Baylor,2021,7,240,Commanders
+Kenny Willekes,ED,Vikings,TRUE,2021,2,1485000,742500,https://overthecap.com/player/kenny-willekes/8965/,8965,"6'4""",260,Michigan State,2020,7,225,Vikings
+Tipa Galeai,ED,Packers,TRUE,2021,2,1485000,742500,https://overthecap.com/player/tipa-galeai/9144/,9144,"6'5""",235,Utah State,2020,NA,NA,Packers
+Niko Lalos,ED,Giants,TRUE,2022,1,834000,834000,https://overthecap.com/player/niko-lalos/9021/,9021,"6'5""",270,Dartmouth,2020,NA,NA,Giants
+Quinton Bell,ED,Falcons,TRUE,2022,1,825000,825000,https://overthecap.com/player/quinton-bell/8021/,8021,"6'4""",220,Prairie View A&M,2019,7,230,Raiders
+Alex Barrett,ED,49ers,TRUE,2022,1,825000,825000,https://overthecap.com/player/alex-barrett/6212/,6212,"6'3""",255,San Diego State,2017,NA,NA,Lions
+Jamir Jones,ED,Jaguars,TRUE,2022,1,825000,825000,https://overthecap.com/player/jamir-jones/9035/,9035,"6'3""",255,Norte Dame,2020,NA,NA,Texans
+Randy Ramsey,ED,Packers,TRUE,2022,1,825000,825000,https://overthecap.com/player/randy-ramsey/8160/,8160,"6'3""",230,Arkansas,2019,NA,NA,Packers
+Jordan Brailford,ED,Falcons,TRUE,2022,1,825000,825000,https://overthecap.com/player/jordan-brailford/8044/,8044,"6'3""",250,Oklahoma State,2019,7,253,Commanders
+Bryce Huff,ED,Jets,TRUE,2020,3,2300000,766667,https://overthecap.com/player/bryce-huff/9313/,9313,"6'3""",255,Memphis,2020,NA,NA,Jets
+Hamilcar Rashed,ED,Jets,TRUE,2022,2,1575000,787500,https://overthecap.com/player/hamilcar-rashed/9993/,9993,"6'4""",238,Oregon State,2021,NA,NA,Jets
+Andrew Van Ginkel,ED,Dolphins,TRUE,2019,4,2831964,707991,https://overthecap.com/player/andrew-van-ginkel/7942/,7942,"6'4""",236,Wisconsin,2019,5,151,Dolphins
+Justin Hollins,ED,DEN/LAR,TRUE,2019,4,2826896,706724,https://overthecap.com/player/justin-hollins/7947/,7947,"6'5""",242,Oregon,2019,5,156,Broncos
+Charles Omenihu,ED,SF/HOU,TRUE,2019,4,2816404,704101,https://overthecap.com/player/charles-omenihu/7952/,7952,"6'6""",275,Texas,2019,5,161,Texans
+Darryl Johnson Jr.,ED,CAR/BUF,TRUE,2019,4,2618464,654616,https://overthecap.com/player/darryl-johnson-jr/8016/,8016,"6'5""",232,North Carolina A&T,2019,7,225,Bills
+Alex Tchangam,ED,Seahawks,TRUE,2022,1,705000,705000,https://overthecap.com/player/alex-tchangam/10024/,10024,"6'3""",245,Colorado,2021,NA,NA,Seahawks
+Austin Edwards,ED,Chiefs,TRUE,2022,1,705000,705000,https://overthecap.com/player/austin-edwards/9003/,9003,"6'5""",275,Ferris State,2020,NA,NA,Falcons
+Earnest Brown IV,ED,Rams,TRUE,2022,1,705000,705000,https://overthecap.com/player/earnest-brown-iv/9638/,9638,"6'5""",270,Northwestern,2021,5,174,Rams
+Matt Leo,ED,Eagles,TRUE,2022,1,705000,705000,https://overthecap.com/player/matt-leo/9179/,9179,"6'7""",275,Iowa State,2020,NA,NA,Eagles
+Myles Adams,ED,Seahawks,TRUE,2022,1,705000,705000,https://overthecap.com/player/myles-adams/9194/,9194,"6'2""",285,Rice,2020,NA,NA,Panthers
+Charles Snowden,ED,Bears,TRUE,2022,1,705000,705000,https://overthecap.com/player/charles-snowden/9868/,9868,"6'7""",240,Virginia,2021,NA,NA,Bears
+Kobe Jones,ED,Packers,TRUE,2022,1,705000,705000,https://overthecap.com/player/kobe-jones/9925/,9925,"6'4""",260,Mississippi State,2021,NA,NA,Falcons
+Curtis Weaver,ED,Browns,TRUE,2022,1,705000,705000,https://overthecap.com/player/curtis-weaver/8904/,8904,"6'3""",265,Boise State,2020,5,164,Dolphins
+Gerri Green,ED,Raiders,TRUE,2022,1,705000,705000,https://overthecap.com/player/gerri-green/7990/,7990,"6'4""",255,Mississippi State,2019,6,199,Colts
+DeMarcus Walker,ED,Titans,TRUE,2022,1,0,0,https://overthecap.com/player/demarcus-walker/5637/,5637,"6'4""",280,Florida State,2017,2,51,Broncos
+Darius Leonard,LB,Colts,TRUE,2021,5,98500000,19700000,https://overthecap.com/player/darius-leonard/6921/,6921,"6'3""",235,South Carolina State,2018,2,36,Colts
+Fred Warner,LB,49ers,TRUE,2021,5,95225000,19045000,https://overthecap.com/player/fred-warner/6955/,6955,"6'4""",230,BYU,2018,3,70,NA
+C.J. Mosley,LB,Jets,TRUE,2019,5,85000000,17000000,https://overthecap.com/player/c-j-mosley/2956/,2956,"6'2""",234,Alabama,2014,1,17,Ravens
+Deion Jones,LB,Falcons,TRUE,2019,4,57000000,14250000,https://overthecap.com/player/deion-jones/4765/,4765,"6'1""",222,LSU,2016,2,52,Falcons
+Foyesade Oluokun,LB,Jaguars,TRUE,2022,3,45000000,15000000,https://overthecap.com/player/foyesade-oluokun/7085/,7085,"6'2""",218,Yale,2018,6,200,Falcons
+Shaq Thompson,LB,Panthers,TRUE,2019,4,54160000,13540000,https://overthecap.com/player/shaq-thompson/3873/,3873,"6'0""",228,Washington,2015,1,25,Panthers
+Lavonte David,LB,Buccaneers,TRUE,2021,2,25000000,12500000,https://overthecap.com/player/lavonte-david/350/,350,"6'1""",233,Nebraska,2012,2,58,Buccaneers
+Jerome Baker,LB,Dolphins,TRUE,2021,3,37500000,12500000,https://overthecap.com/player/jerome-baker/6958/,6958,"6'1""",225,Ohio State,2018,3,73,Dolphins
+Matt Milano,LB,Bills,TRUE,2021,4,41500000,10375000,https://overthecap.com/player/matt-milano/5749/,5749,"6'0""",223,Boston College,2017,5,163,Bills
+Eric Kendricks,LB,Vikings,TRUE,2018,5,50000000,10000000,https://overthecap.com/player/eric-kendricks/3893/,3893,"6'0""",232,UCLA,2015,2,45,Vikings
+Zach Cunningham,LB,Titans,TRUE,2022,3,33000000,11000000,https://overthecap.com/player/zach-cunningham/5643/,5643,"6'3""",234,Vanderbilt,2017,2,57,Texans
+De'Vondre Campbell,LB,Packers,TRUE,2022,5,50000000,10000000,https://overthecap.com/player/devondre-campbell/4828/,4828,"6'4""",232,Minnesota,2016,4,115,Falcons
+Bobby Wagner,LB,Rams,TRUE,2022,5,50000000,10000000,https://overthecap.com/player/bobby-wagner/1531/,1531,"6'0""",241,Utah State,2012,2,47,Seahawks
+Demario Davis,LB,Saints,TRUE,2020,3,27000000,9000000,https://overthecap.com/player/demario-davis/984/,984,"6'2""",239,Arkansas State,2012,3,77,Jets
+Devin White,LB,Buccaneers,TRUE,2019,4,29315814,7328954,https://overthecap.com/player/devin-white/7796/,7796,"6'1""",240,LSU,2019,1,5,Buccaneers
+Myles Jack,LB,Steelers,TRUE,2022,2,16000000,8000000,https://overthecap.com/player/myles-jack/4749/,4749,"6'1""",245,UCLA,2016,2,36,Jaguars
+Josey Jewell,LB,Broncos,TRUE,2022,2,11000000,5500000,https://overthecap.com/player/josey-jewell/6991/,6991,"6'2""",236,Iowa,2018,4,106,Broncos
+Roquan Smith,LB,Bears,TRUE,2018,4,18477166,4619292,https://overthecap.com/player/roquan-smith/6893/,6893,"6'1""",236,Georgia,2018,1,8,Bears
+Isaiah Simmons,LB,Cardinals,TRUE,2020,4,20664054,5166014,https://overthecap.com/player/isaiah-simmons/8748/,8748,"6'4""",238,Clemson,2020,1,8,Cardinals
+Devin Bush,LB,Steelers,TRUE,2019,4,18871768,4717942,https://overthecap.com/player/devin-bush/7801/,7801,"5'11""",233,Michigan,2019,1,10,Steelers
+Jordan Hicks,LB,Vikings,TRUE,2022,2,10000000,5000000,https://overthecap.com/player/jordan-hicks/3932/,3932,"6'1""",238,Texas,2015,3,84,Eagles
+Christian Kirksey,LB,Texans,TRUE,2022,2,10000000,5000000,https://overthecap.com/player/christian-kirksey/3010/,3010,"6'2""",235,Iowa,2014,3,71,Browns
+Micah Parsons,LB,Cowboys,TRUE,2021,4,17079792,4269948,https://overthecap.com/player/micah-parsons/9476/,9476,"6'3""",240,Penn State,2021,1,12,Cowboys
+Anthony Walker Jr.,LB,Browns,TRUE,2022,1,4250000,4250000,https://overthecap.com/player/anthony-walker-jr/5747/,5747,"6'1""",238,Northwestern,2017,5,161,Colts
+Zaven Collins,LB,Cardinals,TRUE,2021,4,14690254,3672564,https://overthecap.com/player/zaven-collins/9480/,9480,"6'4""",260,Tulsa,2021,1,16,Cardinals
+Kamu Grugier-Hill,LB,Texans,TRUE,2022,1,4000000,4000000,https://overthecap.com/player/kamu-grugier-hill/4921/,4921,"6'2""",215,Eastern Illinois,2016,6,208,Patriots
+Azeez Al-Shaair,LB,49ers,TRUE,2022,1,3986000,3986000,https://overthecap.com/player/azeez-al-shaair/8212/,8212,"6'1""",234,Florida Atlantic,2019,NA,NA,NA
+Jamin Davis,LB,Commanders,TRUE,2021,4,13794176,3448544,https://overthecap.com/player/jamin-davis/9483/,9483,"6'4""",234,Kentucky,2021,1,19,Commanders
+Jalen Reeves-Maybin,LB,Texans,TRUE,2022,2,7500000,3750000,https://overthecap.com/player/jalen-reeves-maybin/5710/,5710,"6'0""",230,Tennessee,2017,4,124,Lions
+Tremaine Edmunds,LB,Bills,TRUE,2018,4,12659544,3164886,https://overthecap.com/player/tremaine-edmunds/6901/,6901,"6'5""",253,Virginia Tech,2018,1,16,Bills
+Denzel Perryman,LB,Raiders,TRUE,2021,2,6085000,3042500,https://overthecap.com/player/denzel-perryman/3896/,3896,"6'0""",236,Miami,2015,2,48,Chargers
+Quay Walker,LB,Packers,TRUE,2022,4,13841644,3460411,https://overthecap.com/player/quay-walker/10067/,10067,"6'4""",242,Georgia,2022,1,22,Packers
+Damien Wilson,LB,Panthers,TRUE,2022,2,6900000,3450000,https://overthecap.com/player/damien-wilson/3975/,3975,"6'2""",240,Minnesota,2015,4,127,Cowboys
+Kenneth Murray,LB,Chargers,TRUE,2020,4,12974944,3243736,https://overthecap.com/player/kenneth-murray/8763/,8763,"6'2""",243,Oklahoma,2020,1,23,Chargers
+Zaire Franklin,LB,Colts,TRUE,2022,3,10000000,3333333,https://overthecap.com/player/zaire-franklin/7120/,7120,"6'0""",236,Syracuse,2018,7,235,Colts
+Devin Lloyd,LB,Jaguars,TRUE,2022,4,12936608,3234152,https://overthecap.com/player/devin-lloyd/10072/,10072,"6'3""",237,Utah,2022,1,27,Jaguars
+Jordyn Brooks,LB,Seahawks,TRUE,2020,4,12235604,3058901,https://overthecap.com/player/jordyn-brooks/8767/,8767,"6'1""",245,Texas Tech,2020,1,27,Seahawks
+Patrick Queen,LB,Ravens,TRUE,2020,4,12161670,3040418,https://overthecap.com/player/patrick-queen/8768/,8768,"6'1""",227,LSU,2020,1,28,Ravens
+Duke Riley,LB,Dolphins,TRUE,2022,1,3000000,3000000,https://overthecap.com/player/duke-riley/5661/,5661,"6'0""",232,LSU,2017,3,75,Falcons
+Nicholas Morrow,LB,Bears,TRUE,2022,1,3000000,3000000,https://overthecap.com/player/nicholas-morrow/6086/,6086,"6'0""",216,Greenvile,2017,NA,NA,Raiders
+Blake Martinez,LB,Giants,TRUE,2022,1,3000000,3000000,https://overthecap.com/player/blake-martinez/4844/,4844,"6'2""",237,Stanford,2016,4,131,Packers
+Kyzir White,LB,Eagles,TRUE,2022,1,3000000,3000000,https://overthecap.com/player/kyzir-white/7004/,7004,"6'2""",216,West Virginia,2018,4,119,Chargers
+Ja'Whaun Bentley,LB,Patriots,TRUE,2022,2,6000000,3000000,https://overthecap.com/player/jawhaun-bentley/7028/,7028,"6'2""",260,Purdue,2018,5,143,Patriots
+Tyler Matakevich,LB,Bills,TRUE,2021,1,2500000,2500000,https://overthecap.com/player/tyler-matakevich/4959/,4959,"6'0""",238,Temple,2016,7,246,Steelers
+Elandon Roberts,LB,Dolphins,TRUE,2022,1,2750000,2750000,https://overthecap.com/player/elandon-roberts/4927/,4927,"6'0""",235,Houston,2016,6,214,Patriots
+Cory Littleton,LB,Panthers,TRUE,2022,1,2600000,2600000,https://overthecap.com/player/cory-littleton/5197/,5197,"6'3""",228,Washington,2016,NA,NA,Rams
+Marcus Allen,LB,Steelers,TRUE,2022,1,2540000,2540000,https://overthecap.com/player/marcus-allen/7033/,7033,"6'2""",207,Penn State,2018,5,148,Steelers
+Travin Howard,LB,Rams,TRUE,2022,1,2540000,2540000,https://overthecap.com/player/travin-howard/7116/,7116,"6'1""",213,TCU,2018,7,231,Rams
+Oren Burks,LB,49ers,TRUE,2022,2,5000000,2500000,https://overthecap.com/player/oren-burks/6973/,6973,"6'3""",230,Vanderbilt,2018,3,88,Packers
+T.J. Edwards,LB,Eagles,TRUE,2021,1,2150000,2150000,https://overthecap.com/player/t-j-edwards/8427/,8427,"6'0""",230,Wisconsin,2019,NA,NA,Eagles
+Robert Spillane,LB,Steelers,TRUE,2022,1,2433000,2433000,https://overthecap.com/player/robert-spillane/7595/,7595,"6'2""",220,Western Michigan,2018,NA,NA,Titans
+Alex Anzalone,LB,Lions,TRUE,2022,1,2250000,2250000,https://overthecap.com/player/alex-anzalone/5662/,5662,"6'3""",241,Florida,2017,3,76,Saints
+Chris Board,LB,Lions,TRUE,2022,1,2000000,2000000,https://overthecap.com/player/chris-board/7653/,7653,"6'2""",226,North Dakota State,2018,NA,NA,Ravens
+Leighton Vander Esch,LB,Cowboys,TRUE,2022,1,2000000,2000000,https://overthecap.com/player/leighton-vander-esch/6904/,6904,"6'4""",256,Boise State,2018,1,19,Cowboys
+Neville Hewitt,LB,Texans,TRUE,2022,1,1950000,1950000,https://overthecap.com/player/neville-hewitt/4176/,4176,"6'2""",219,Marshall,2015,NA,NA,Dolphins
+Tanner Vallejo,LB,Cardinals,TRUE,2021,2,3300000,1650000,https://overthecap.com/player/tanner-vallejo/5781/,5781,"6'1""",228,Boise State,2017,6,195,Bills
+Jeremiah Owusu-Koramoah,LB,Browns,TRUE,2021,4,6476224,1619056,https://overthecap.com/player/jeremiah-owusu-koramoah/9516/,9516,"6'2""",215,Notre Dame,2021,2,52,Browns
+"Jermaine Carter, Jr.",LB,Chiefs,TRUE,2022,1,1770000,1770000,https://overthecap.com/player/jermaine-carter-jr/7046/,7046,"6'0""",228,Maryland,2018,5,161,Panthers
+Nick Vigil,LB,Cardinals,TRUE,2022,1,1770000,1770000,https://overthecap.com/player/nick-vigil/4800/,4800,"6'2""",239,Utah State,2016,3,87,Bengals
+Rashaan Evans,LB,Falcons,TRUE,2022,1,1750000,1750000,https://overthecap.com/player/rashaan-evans/6907/,6907,"6'3""",234,Alabama,2018,1,22,Titans
+Kevin Pierre-Louis,LB,Texans,TRUE,2022,1,1700000,1700000,https://overthecap.com/player/kevin-pierre-louis/3071/,3071,"6'0""",232,Boston College,2014,4,132,Seahawks
+Sam Eguavoen,LB,Dolphins,TRUE,2022,1,1690000,1690000,https://overthecap.com/player/sam-eguavoen/7741/,7741,"6'0""",227,Texas Tech,2015,NA,NA,Dolphins
+Nick Bolton,LB,Chiefs,TRUE,2021,4,5834040,1458510,https://overthecap.com/player/nick-bolton/9522/,9522,"6'0""",232,Missouri,2021,2,58,Chiefs
+Troy Andersen,LB,Falcons,TRUE,2022,4,6498118,1624530,https://overthecap.com/player/troy-andersen/10103/,10103,"6'4""",243,Montana State,2022,2,58,Falcons
+Pete Werner,LB,Saints,TRUE,2021,4,5684682,1421171,https://overthecap.com/player/pete-werner/9524/,9524,"6'3""",242,Ohio State,2021,2,60,Saints
+Josh Woods,LB,Lions,TRUE,2022,1,1550000,1550000,https://overthecap.com/player/josh-woods/7670/,7670,"6'1""",204,Maryland,2018,NA,NA,Bears
+Devon Kennard,LB,Cardinals,TRUE,2022,1,1500000,1500000,https://overthecap.com/player/devon-kennard/3113/,3113,"6'3""",249,USC,2014,5,174,Giants
+Zeke Turner,LB,Cardinals,TRUE,2022,1,1500000,1500000,https://overthecap.com/player/zeke-turner/7548/,7548,"6'2""",214,Washington,2018,NA,NA,Cardinals
+Brian Asamoah,LB,Vikings,TRUE,2022,4,5772078,1443020,https://overthecap.com/player/brian-asamoah/10111/,10111,"6'1""",225,Oklahoma,2022,3,66,Vikings
+Chazz Surratt,LB,Vikings,TRUE,2021,4,5015094,1253774,https://overthecap.com/player/chazz-surratt/9542/,9542,"6'2""",225,North Carolina,2021,3,78,Vikings
+Chad Muma,LB,Jaguars,TRUE,2022,4,5700588,1425147,https://overthecap.com/player/chad-muma/10115/,10115,"6'3""",237,Wyoming,2022,3,70,Jaguars
+Divine Deablo,LB,Raiders,TRUE,2021,4,4980836,1245209,https://overthecap.com/player/divine-deablo/9544/,9544,"6'3""",226,Virginia Tech,2021,3,80,Raiders
+Christian Harris,LB,Texans,TRUE,2022,4,5608936,1402234,https://overthecap.com/player/christian-harris/10120/,10120,"6'1""",235,Alabama,2022,3,75,Texans
+"Willie Gay, Jr.",LB,Chiefs,TRUE,2020,4,5271046,1317762,https://overthecap.com/player/willie-gay-jr/8803/,8803,"6'2""",240,Mississippi State,2020,2,63,Chiefs
+Monty Rice,LB,Titans,TRUE,2021,4,4848858,1212215,https://overthecap.com/player/monty-rice/9556/,9556,"6'1""",235,Georgia,2021,3,92,Titans
+Andre Smith,LB,Bills,TRUE,2021,2,2400000,1200000,https://overthecap.com/player/andre-smith/7119/,7119,"6'0""",240,North Carolina,2018,7,234,Panthers
+Ernest Jones,LB,Rams,TRUE,2021,4,4685354,1171339,https://overthecap.com/player/ernest-jones/9567/,9567,"6'2""",230,South Carolina,2021,3,103,Rams
+Baron Browning,LB,Broncos,TRUE,2021,4,4675775,1168944,https://overthecap.com/player/baron-browning/9569/,9569,"6'3""",240,Ohio State,2021,3,105,Broncos
+Channing Tindall,LB,Dolphins,TRUE,2022,4,5251818,1312955,https://overthecap.com/player/channing-tindall/10147/,10147,"6'2""",228,Georgia,2022,3,102,Dolphins
+Leo Chenal,LB,Chiefs,TRUE,2022,4,5251818,1312955,https://overthecap.com/player/leo-chenal/10148/,10148,"6'3""",250,Wisconsin,2022,3,103,Chiefs
+Nakobe Dean,LB,Eagles,TRUE,2022,4,5204642,1301161,https://overthecap.com/player/nakobe-dean/10128/,10128,"5'11""",231,Georgia,2022,3,83,Eagles
+Logan Wilson,LB,Bengals,TRUE,2020,4,4945592,1236398,https://overthecap.com/player/logan-wilson/8805/,8805,"6'2""",241,Wyoming,2020,3,65,Bengals
+Terrel Bernard,LB,Bills,TRUE,2022,4,5132864,1283216,https://overthecap.com/player/terrel-bernard/10134/,10134,"6'1""",218,Baylor,2022,3,89,Bills
+Julian Stanford,LB,Panthers,TRUE,2022,1,1272500,1272500,https://overthecap.com/player/julian-stanford/942/,942,"6'1""",230,Wagner,2012,NA,NA,Jaguars
+David Mayo,LB,Commanders,TRUE,2022,1,1272500,1272500,https://overthecap.com/player/david-mayo/4017/,4017,"6'1""",235,Texas State,2015,5,169,Panthers
+Josh Bynes,LB,Ravens,TRUE,2022,1,1272500,1272500,https://overthecap.com/player/josh-bynes/1714/,1714,"6'1""",240,Auburn,2011,NA,NA,Ravens
+Calvin Munson,LB,MIA/NE,TRUE,2021,2,2215000,1107500,https://overthecap.com/player/calvin-munson/6195/,6195,"6'1""",245,San Diego State,2017,NA,NA,Giants
+Zack Baun,LB,Saints,TRUE,2020,4,4787121,1196780,https://overthecap.com/player/zack-baun/8814/,8814,"6'3""",235,Wisconsin,2020,3,74,Saints
+Jayon Brown,LB,Raiders,TRUE,2022,1,1250000,1250000,https://overthecap.com/player/jayon-brown/5741/,5741,"6'0""",231,UCLA,2017,5,155,Titans
+Raekwon McMillan,LB,Patriots,TRUE,2021,2,2185000,1092500,https://overthecap.com/player/raekwon-mcmillan/5640/,5640,"6'2""",240,Ohio State,2017,2,54,Dolphins
+Derrick Barnes,LB,Lions,TRUE,2021,4,4261208,1065302,https://overthecap.com/player/derrick-barnes/9577/,9577,"6'1""",245,Purdue,2021,4,113,Lions
+Jabril Cox,LB,Cowboys,TRUE,2021,4,4251248,1062812,https://overthecap.com/player/jabril-cox/9579/,9579,"6'4""",231,LSU,2021,4,115,Cowboys
+Jahlani Tavai,LB,Patriots,TRUE,2021,2,2095000,1047500,https://overthecap.com/player/jahlani-tavai/7834/,7834,"6'4""",245,Hawaii,2019,2,43,Lions
+Joel Iyiegbuniwe,LB,Seahawks,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/joel-iyiegbuniwe/7000/,7000,"6'1""",230,Western Kentucky,2018,4,115,Bears
+Marcell Harris,LB,Jets,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/marcell-harris/7069/,7069,"6'0""",208,Florida,2018,6,184,NA
+Genard Avery,LB,Steelers,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/genard-avery/7035/,7035,"6'1""",255,Memphis,2018,5,150,Browns
+Marquel Lee,LB,Bills,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/marquel-lee/5754/,5754,"6'3""",240,Wake Forest,2017,5,168,Raiders
+Matthew Adams,LB,Bears,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/matthew-adams/7106/,7106,"6'1""",237,Houston,2018,7,221,Colts
+Jarrad Davis,LB,Lions,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/jarrad-davis/5605/,5605,"6'1""",238,Florida,2017,1,21,Lions
+Brandon King,LB,Colts,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/brandon-king/4466/,4466,"6'2""",213,Auburn,2015,NA,NA,Patriots
+Dylan Cole,LB,Titans,TRUE,2022,1,1187500,1187500,https://overthecap.com/player/dylan-cole/6241/,6241,"6'0""",220,Missouri State,2017,NA,NA,Texans
+Brennan Scarlett,LB,Dolphins,TRUE,2022,1,1185000,1185000,https://overthecap.com/player/brennan-scarlett/5273/,5273,"6'4""",264,Stanford,2016,NA,NA,Texans
+Harvey Langi,LB,Patriots,TRUE,2022,1,1185000,1185000,https://overthecap.com/player/harvey-langi/6131/,6131,"6'2""",252,BYU,2017,NA,NA,Patriots
+Jacob Phillips,LB,Browns,TRUE,2020,4,4344310,1086078,https://overthecap.com/player/jacob-phillips/8837/,8837,"6'4""",233,LSU,2020,3,97,Browns
+Malik Harrison,LB,Ravens,TRUE,2020,4,4336935,1084234,https://overthecap.com/player/malik-harrison/8838/,8838,"6'3""",246,Ohio State,2020,3,98,Ravens
+Buddy Johnson,LB,Steelers,TRUE,2021,4,3979344,994836,https://overthecap.com/player/buddy-johnson/9604/,9604,"6'2""",240,Texas A&M,2021,4,140,Steelers
+Davion Taylor,LB,Eagles,TRUE,2020,4,4313292,1078323,https://overthecap.com/player/davion-taylor/8843/,8843,"6'2""",225,Colorado,2020,3,103,Eagles
+Germaine Pratt,LB,Bengals,TRUE,2019,4,4083539,1020885,https://overthecap.com/player/germaine-pratt/7863/,7863,"6'3""",240,North Carolina State,2019,3,72,Bengals
+Joe Thomas,LB,Bears,TRUE,2022,1,1120000,1120000,https://overthecap.com/player/joe-thomas/3376/,3376,"6'1""",227,South Carolina State,2014,NA,NA,Packers
+Luke Gifford,LB,Cowboys,TRUE,2022,1,1115000,1115000,https://overthecap.com/player/luke-gifford/8451/,8451,"6'3""",243,Nebraska,2019,NA,NA,Cowboys
+Alex Singleton,LB,Broncos,TRUE,2022,1,1115000,1115000,https://overthecap.com/player/alex-singleton/4507/,4507,"6'2""",242,Montana State,2015,NA,NA,Seahawks
+Brandon Smith,LB,Panthers,TRUE,2022,4,4416552,1104138,https://overthecap.com/player/brandon-smith/10165/,10165,"6'4""",244,Penn State,2022,4,120,Panthers
+Jamien Sherwood,LB,Jets,TRUE,2021,4,3834856,958714,https://overthecap.com/player/jamien-sherwood/9610/,9610,"6'2""",220,Auburn,2021,5,146,Jets
+Tony Fields II,LB,Browns,TRUE,2021,4,3809752,952438,https://overthecap.com/player/tony-fields-ii/9617/,9617,"6'1""",220,West Virginia,2021,5,153,Browns
+Akeem Davis-Gaither,LB,Bengals,TRUE,2020,4,4112508,1028127,https://overthecap.com/player/akeem-davis-gaither/8847/,8847,"6'2""",224,Appalachian State,2020,4,107,Bengals
+Garret Wallow,LB,Texans,TRUE,2021,4,3775888,943972,https://overthecap.com/player/garret-wallow/9634/,9634,"6'2""",230,TCU,2021,5,170,Texans
+Troy Reeder,LB,Chargers,TRUE,2022,1,1075000,1075000,https://overthecap.com/player/troy-reeder/8482/,8482,"6'3""",245,Delaware,2019,NA,NA,Rams
+K.J. Britt,LB,Buccaneers,TRUE,2021,4,3746296,936574,https://overthecap.com/player/k-j-britt/9640/,9640,"6'0""",243,Auburn,2021,5,176,Buccaneers
+Tae Davis,LB,Texans,TRUE,2022,1,1065000,1065000,https://overthecap.com/player/tae-davis/7364/,7364,"6'1""",200,Tennessee-Chattanooga,2018,NA,NA,Giants
+Mykal Walker,LB,Falcons,TRUE,2020,4,4041084,1010271,https://overthecap.com/player/mykal-walker/8859/,8859,"6'3""",230,Fresno State,2020,4,119,Falcons
+Cameron McGrone,LB,Patriots,TRUE,2021,4,3720152,930038,https://overthecap.com/player/cameron-mcgrone/9641/,9641,"6'1""",236,Michigan,2021,5,177,Patriots
+Elijah Lee,LB,Chiefs,TRUE,2022,1,1055000,1055000,https://overthecap.com/player/elijah-lee/5818/,5818,"6'3""",228,Kansas State,2017,7,232,Vikings
+Nick Niemann,LB,Chargers,TRUE,2021,4,3694008,923502,https://overthecap.com/player/nick-niemann/9649/,9649,"6'4""",233,Iowa,2021,6,185,Chargers
+Hamsah Nasirildeen,LB,Jets,TRUE,2021,4,3687848,921961,https://overthecap.com/player/hamsah-nasirildeen/9650/,9650,"6'4""",220,Florida State,2021,6,186,Jets
+Troy Dye,LB,Vikings,TRUE,2020,4,3973572,993393,https://overthecap.com/player/troy-dye/8872/,8872,"6'4""",236,Oregon,2020,4,132,Vikings
+Eric Wilson,LB,Saints,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/eric-wilson/5904/,5904,"6'2""",225,Cincinnati,2017,NA,NA,Vikings
+Nick Kwiatkoski,LB,Falcons,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/nick-kwiatkoski/4826/,4826,"6'2""",243,West Virginia,2016,4,113,Bears
+Sharif Finch,LB,Saints,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/sharif-finch/7194/,7194,"6'4""",218,Temple,2018,NA,NA,Titans
+Tyrell Adams,LB,Jaguars,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/tyrell-adams/4514/,4514,"6'2""",228,West Georgia,2015,NA,NA,Seahawks
+Joe Walker,LB,Cardinals,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/joe-walker/4964/,4964,"6'2""",236,Oregon,2016,7,251,Eagles
+Joseph Jones,LB,Titans,TRUE,2022,1,1035000,1035000,https://overthecap.com/player/joseph-jones/6231/,6231,"6'1""",209,Northwestern,2017,NA,NA,Cowboys
+Sione Takitaki,LB,Browns,TRUE,2019,4,3735876,933969,https://overthecap.com/player/sione-takitaki/7871/,7871,"6'2""",230,BYU,2019,3,80,Browns
+Isaiah McDuffie,LB,Packers,TRUE,2021,4,3610704,902676,https://overthecap.com/player/isaiah-mcduffie/9684/,9684,"6'1""",224,Boston College,2021,6,220,Packers
+Patrick Johnson,LB,Eagles,TRUE,2021,4,3585872,896468,https://overthecap.com/player/patrick-johnson/9698/,9698,"6'3""",255,Tulane,2021,7,234,Eagles
+Devante Bond,LB,Cowboys,TRUE,2022,2,2045000,1022500,https://overthecap.com/player/devante-bond/4896/,4896,"6'1""",235,Oklahoma,2016,6,183,Buccaneers
+Grant Stuard,LB,Buccaneers,TRUE,2021,4,3556248,889062,https://overthecap.com/player/grant-stuard/9723/,9723,"6'1""",225,Houston,2021,7,259,Buccaneers
+Micah McFadden,LB,Giants,TRUE,2022,4,4015704,1003926,https://overthecap.com/player/micah-mcfadden/10191/,10191,"6'1""",234,Indiana,2022,5,146,Giants
+Cody Barton,LB,Seahawks,TRUE,2019,4,3626124,906531,https://overthecap.com/player/cody-barton/7879/,7879,"6'2""",230,Utah,2019,3,88,Seahawks
+Bobby Okereke,LB,Colts,TRUE,2019,4,3622116,905529,https://overthecap.com/player/bobby-okereke/7880/,7880,"6'3""",234,Stanford,2019,3,89,Colts
+Shaquille Quarterman,LB,Jaguars,TRUE,2020,4,3789400,947350,https://overthecap.com/player/shaquille-quarterman/8880/,8880,"6'1""",241,Miami,2020,4,140,Jaguars
+D'Marco Jackson,LB,Saints,TRUE,2022,4,3976916,994229,https://overthecap.com/player/dmarco-jackson/10206/,10206,"6'0""",234,Appalachian State,2022,5,161,Saints
+Micah Kiser,LB,Raiders,TRUE,2022,1,980000,980000,https://overthecap.com/player/micah-kiser/7032/,7032,"6'2""",240,Virginia,2018,5,147,Rams
+Damone Clark,LB,Cowboys,TRUE,2022,4,3902556,975639,https://overthecap.com/player/damone-clark/10221/,10221,"6'3""",239,LSU,2022,5,176,Cowboys
+Quincy Williams,LB,NYJ/JAX,TRUE,2019,4,3506034,876509,https://overthecap.com/player/quincy-williams/7889/,7889,"5'10""",239,Murray State,2019,3,98,Jaguars
+Darrian Beavers,LB,Giants,TRUE,2022,4,3866536,966634,https://overthecap.com/player/darrian-beavers/10227/,10227,"6'4""",243,Cincinnati,2022,6,182,Giants
+Shaun Dion Hamilton,LB,Lions,TRUE,2022,1,965000,965000,https://overthecap.com/player/shaun-dion-hamilton/7082/,7082,"6'0""",235,Alabama,2018,6,197,Commanders
+Malcolm Rodriguez,LB,Lions,TRUE,2022,4,3847928,961982,https://overthecap.com/player/malcolm-rodriguez/10233/,10233,"5'11""",236,Oklahoma State,2022,6,188,Lions
+Devin Harper,LB,Cowboys,TRUE,2022,4,3837520,959380,https://overthecap.com/player/devin-harper/10238/,10238,"6'0""",234,Oklahoma State,2022,6,193,Cowboys
+Del'Shawn Phillips,LB,Jets,TRUE,2021,2,1675000,837500,https://overthecap.com/player/delshawn-phillips/8388/,8388,"6'2""",230,Illinois,2019,NA,NA,Falcons
+Kamal Martin,LB,Panthers,TRUE,2021,2,1675000,837500,https://overthecap.com/player/kamal-martin/8915/,8915,"6'3""",245,Minnesota,2020,5,175,Packers
+Javin White,LB,Jets,TRUE,2021,2,1675000,837500,https://overthecap.com/player/javin-white/9354/,9354,"6'3""",205,Nevada-Las Vegas,2020,NA,NA,Raiders
+Chance Campbell,LB,Titans,TRUE,2022,4,3792012,948003,https://overthecap.com/player/chance-campbell/10264/,10264,"6'2""",232,Mississippi,2022,6,219,Titans
+Khaleke Hudson,LB,Commanders,TRUE,2020,4,3607604,901901,https://overthecap.com/player/khaleke-hudson/8902/,8902,"6'0""",220,Michigan,2020,5,162,Commanders
+Mark Robinson,LB,Steelers,TRUE,2022,4,3772356,943089,https://overthecap.com/player/mark-robinson/10270/,10270,"6'0""",230,Mississippi,2022,7,225,Steelers
+Baylon Spector,LB,Bills,TRUE,2022,4,3763728,940932,https://overthecap.com/player/baylon-spector/10276/,10276,"6'1""",231,Clemson,2022,7,231,Bills
+Justin Hilliard,LB,NYG/SF,TRUE,2021,3,2455000,818333,https://overthecap.com/player/justin-hilliard/9964/,9964,"6'1""",231,Ohio State,2021,NA,NA,NA
+Amen Ogbongbemiga,LB,Chargers,TRUE,2021,3,2440000,813333,https://overthecap.com/player/amen-ogbongbemiga/9824/,9824,"6'1""",235,Oklahoma State,2021,NA,NA,Chargers
+Justin Strnad,LB,Broncos,TRUE,2020,4,3532776,883194,https://overthecap.com/player/justin-strnad/8918/,8918,"6'3""",235,Wake Forest,2020,5,178,Broncos
+Caleb Johnson,LB,Bears,TRUE,2021,3,2432000,810667,https://overthecap.com/player/caleb-johnson/9872/,9872,"6'2""",220,Houston Baptist,2021,NA,NA,Bears
+Damon Lloyd,LB,Chargers,TRUE,2021,3,2425000,808333,https://overthecap.com/player/damon-lloyd/10010/,10010,"6'0""",NA,"Indiana, PA",2021,NA,NA,Chargers
+Cam Brown,LB,Giants,TRUE,2020,4,3493364,873341,https://overthecap.com/player/cam-brown/8923/,8923,"6'5""",210,Penn State,2020,6,183,Giants
+Shaun Bradley,LB,Eagles,TRUE,2020,4,3466420,866605,https://overthecap.com/player/shaun-bradley/8936/,8936,"6'1""",230,Temple,2020,6,196,Eagles
+Jordan Glasgow,LB,Colts,TRUE,2020,4,3424412,856103,https://overthecap.com/player/jordan-glasgow/8953/,8953,"6'1""",226,Michigan,2020,6,213,Colts
+Markus Bailey,LB,Bengals,TRUE,2020,4,3408696,852174,https://overthecap.com/player/markus-bailey/8955/,8955,"6'1""",240,Purdue,2020,7,215,Bengals
+Tanner Muse,LB,Seahawks,TRUE,2022,1,895000,895000,https://overthecap.com/player/tanner-muse/8840/,8840,"6'2""",230,Clemson,2020,3,100,Raiders
+Cole Christiansen,LB,Chargers,TRUE,2022,1,895000,895000,https://overthecap.com/player/cole-christiansen/9077/,9077,"6'2""",225,Army,2020,NA,NA,Chargers
+Darius Harris,LB,Chiefs,TRUE,2022,1,895000,895000,https://overthecap.com/player/darius-harris/8228/,8228,"6'2""",238,Middle Tennessee,2019,NA,NA,Chiefs
+Tyrel Dodson,LB,Bills,TRUE,2022,1,895000,895000,https://overthecap.com/player/tyrel-dodson/8394/,8394,"6'0""",237,Texas A&M,2019,NA,NA,Bills
+Jamal Carter,LB,Titans,TRUE,2022,1,895000,895000,https://overthecap.com/player/jamal-carter/6261/,6261,"6'1""",215,Miami,2017,NA,NA,Broncos
+Demetrius Flannigan-Fowles,LB,49ers,TRUE,2022,1,895000,895000,https://overthecap.com/player/demetrius-flannigan-fowles/8213/,8213,"6'2""",209,Arizona,2019,NA,NA,NA
+Noah Dawkins,LB,Bears,TRUE,2022,1,895000,895000,https://overthecap.com/player/noah-dawkins/8554/,8554,"6'1""",227,Citadel,2019,NA,NA,Bengals
+Joe Giles-Harris,LB,Bills,TRUE,2022,1,895000,895000,https://overthecap.com/player/joe-giles-harris/8262/,8262,"6'2""",234,Duke,2019,NA,NA,Jaguars
+Kristian Welch,LB,Ravens,TRUE,2022,1,895000,895000,https://overthecap.com/player/kristian-welch/9333/,9333,"6'3""",239,Iowa,2020,NA,NA,Ravens
+Chapelle Russell,LB,Jaguars,TRUE,2022,1,895000,895000,https://overthecap.com/player/chapelle-russell/8981/,8981,"6'2""",236,Temple,2020,7,241,Buccaneers
+Joe Bachie,LB,Bengals,TRUE,2022,1,895000,895000,https://overthecap.com/player/joe-bachie/9386/,9386,"6'2""",231,Michigan State,2020,NA,NA,Saints
+Krys Barnes,LB,Packers,TRUE,2022,1,895000,895000,https://overthecap.com/player/krys-barnes/9140/,9140,"6'1""",235,UCLA,2020,NA,NA,Packers
+Carter Coughlin,LB,Giants,TRUE,2020,4,3405144,851286,https://overthecap.com/player/carter-coughlin/8958/,8958,"6'3""",236,Minnesota,2020,7,218,Giants
+T.J. Brunson,LB,Giants,TRUE,2020,4,3376952,844238,https://overthecap.com/player/t-j-brunson/8978/,8978,"6'1""",230,South Carolina,2020,7,238,Giants
+Tae Crowder,LB,Giants,TRUE,2020,4,3370492,842623,https://overthecap.com/player/tae-crowder/8995/,8995,"6'3""",235,Georgia,2020,7,255,Giants
+Barrington Wade,LB,Broncos,TRUE,2022,2,1765000,882500,https://overthecap.com/player/barrington-wade/9750/,9750,"6'1""",236,Iowa,2021,NA,NA,Ravens
+Drue Tranquill,LB,Chargers,TRUE,2019,4,3178808,794702,https://overthecap.com/player/drue-tranquill/7921/,7921,"6'2""",235,Notre Dame,2019,4,130,Chargers
+DQ Thomas,LB,Jets,TRUE,2022,3,2585000,861667,https://overthecap.com/player/dq-thomas/10499/,10499,"6'2""",226,Middle Tennessee,2022,NA,NA,Jets
+Jack Cochrane,LB,Chiefs,TRUE,2022,3,2585000,861667,https://overthecap.com/player/jack-cochrane/10718/,10718,"6'3""",230,South Dakota,2022,NA,NA,Chiefs
+Tre Walker,LB,Commanders,TRUE,2022,3,2580000,860000,https://overthecap.com/player/tre-walker/10425/,10425,"6'0""",235,Idaho,2022,NA,NA,Commanders
+Khalan Tolson,LB,Panthers,TRUE,2022,3,2580000,860000,https://overthecap.com/player/khalan-tolson/10430/,10430,"5'10""",231,Illinois,2022,NA,NA,Panthers
+Jeremiah Gemmel,LB,49ers,TRUE,2022,3,2580000,860000,https://overthecap.com/player/jeremiah-gemmel/10524/,10524,"6'1""",225,North Carolina,2022,NA,NA,NA
+Clarence Hicks,LB,Bengals,TRUE,2022,3,2575000,858333,https://overthecap.com/player/clarence-hicks/10661/,10661,"6'2""",225,UTSA,2022,NA,NA,Bengals
+Ferrod Gardner,LB,Commanders,TRUE,2022,3,2575000,858333,https://overthecap.com/player/ferrod-gardner/10461/,10461,"6'0""",216,Louisiana,2022,NA,NA,Commanders
+Isaiah Graham-Mobley,LB,Panthers,TRUE,2022,3,2575000,858333,https://overthecap.com/player/isaiah-graham-mobley/10348/,10348,"6'1""",229,Boston College,2022,NA,NA,Panthers
+JoJo Domann,LB,Colts,TRUE,2022,3,2575000,858333,https://overthecap.com/player/jojo-domann/10520/,10520,"6'1""",230,Nebraska,2022,NA,NA,Colts
+Olakunle Fatukasi,LB,Buccaneers,TRUE,2022,3,2575000,858333,https://overthecap.com/player/olakunle-fatukasi/10581/,10581,"6'1""",234,Rutgers,2022,NA,NA,Buccaneers
+Isaiah Pryor,LB,Saints,TRUE,2022,3,2575000,858333,https://overthecap.com/player/isaiah-pryor/10538/,10538,"6'1""",220,Notre Dame,2022,NA,NA,Saints
+Darien Butler,LB,Raiders,TRUE,2022,3,2575000,858333,https://overthecap.com/player/darien-butler/10323/,10323,"5'10""",226,Arizona State,2022,NA,NA,NA
+CJ Avery,LB,Bears,TRUE,2022,3,2572000,857333,https://overthecap.com/player/cj-avery/10464/,10464,"6'0""",230,Louisville,2022,NA,NA,Bears
+Kanai Mauga,LB,Broncos,TRUE,2022,3,2570000,856667,https://overthecap.com/player/kanai-mauga/10648/,10648,"6'1""",245,USC,2022,NA,NA,Broncos
+JJ Russell,LB,Buccaneers,TRUE,2022,3,2570000,856667,https://overthecap.com/player/jj-russell/10478/,10478,"6'0""",227,Memphis,2022,NA,NA,Buccaneers
+Vi Jones,LB,Seahawks,TRUE,2022,3,2570000,856667,https://overthecap.com/player/vi-jones/10530/,10530,"6'3""",225,North Carolina State,2022,NA,NA,Seahawks
+Luke Masterson,LB,Raiders,TRUE,2022,3,2570000,856667,https://overthecap.com/player/luke-masterson/10745/,10745,"6'1""",234,Wake Forest,2022,NA,NA,Raiders
+Josh Ross,LB,Ravens,TRUE,2022,3,2570000,856667,https://overthecap.com/player/josh-ross/10495/,10495,"6'1""",225,Michigan,2022,NA,NA,Ravens
+Zakoby McClain,LB,Ravens,TRUE,2022,3,2570000,856667,https://overthecap.com/player/zakoby-mcclain/10335/,10335,"6'0""",227,Auburn,2022,NA,NA,Ravens
+Ellis Brooks,LB,Packers,TRUE,2022,3,2568000,856000,https://overthecap.com/player/ellis-brooks/10571/,10571,"6'1""",226,Penn State,2022,NA,NA,Packers
+Nate Landman,LB,Falcons,TRUE,2022,3,2568000,856000,https://overthecap.com/player/nate-landman/10377/,10377,"6'3""",234,Colorado,2022,NA,NA,Falcons
+Jack Sanborn,LB,Bears,TRUE,2022,3,2567500,855833,https://overthecap.com/player/jack-sanborn/10692/,10692,"6'2""",239,Wisconsin,2022,NA,NA,Bears
+Drew White,LB,Commanders,TRUE,2022,3,2567500,855833,https://overthecap.com/player/drew-white/10537/,10537,"6'0""",229,Notre Dame,2022,NA,NA,Commanders
+Aaron Hansford,LB,Cowboys,TRUE,2022,3,2565000,855000,https://overthecap.com/player/aaron-hansford/10617/,10617,"6'3""",239,Texas A&M,2022,NA,NA,Cowboys
+Grant Morgan,LB,Jaguars,TRUE,2022,3,2565000,855000,https://overthecap.com/player/grant-morgan/10326/,10326,"5'11""",224,Arkansas,2022,NA,NA,Jaguars
+Chandler Wooten,LB,Cardinals,TRUE,2022,3,2565000,855000,https://overthecap.com/player/chandler-wooten/10331/,10331,"6'3""",224,Auburn,2022,NA,NA,Cardinals
+Nephi Sewell,LB,Saints,TRUE,2022,3,2565000,855000,https://overthecap.com/player/nephi-sewell/10655/,10655,"6'0""",224,Utah,2022,NA,NA,Saints
+Forrest Rhyne,LB,Colts,TRUE,2022,3,2565000,855000,https://overthecap.com/player/forrest-rhyne/10667/,10667,"6'1""",233,Villanova,2022,NA,NA,Colts
+Storey Jackson,LB,Cowboys,TRUE,2022,3,2565000,855000,https://overthecap.com/player/storey-jackson/10459/,10459,"6'2""",224,Liberty,2022,NA,NA,Cowboys
+Segun Olubi,LB,49ers,TRUE,2022,3,2563000,854333,https://overthecap.com/player/segun-olubi/10587/,10587,"6'0""",225,San Diego State,2022,NA,NA,NA
+Jordan Young,LB,Buccaneers,TRUE,2022,3,2562500,854167,https://overthecap.com/player/jordan-young/10558/,10558,"6'2""",231,Old Dominion,2022,NA,NA,Buccaneers
+Caliph Brice,LB,Packers,TRUE,2022,3,2562000,854000,https://overthecap.com/player/caliph-brice/10395/,10395,"6'2""",233,Florida Atlantic,2022,NA,NA,Packers
+Jack Gibbens,LB,Titans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/jack-gibbens/10502/,10502,"6'3""",242,Minnesota,2022,NA,NA,Titans
+Kadofi Wright,LB,Broncos,TRUE,2022,3,2560000,853333,https://overthecap.com/player/kadofi-wright/10351/,10351,"6'3""",229,Buffalo,2022,NA,NA,Broncos
+Kuony Deng,LB,Falcons,TRUE,2022,3,2560000,853333,https://overthecap.com/player/kuony-deng/10360/,10360,"6'5""",244,California,2022,NA,NA,Falcons
+Christian Albright,LB,Bears,TRUE,2022,3,2560000,853333,https://overthecap.com/player/christian-albright/10337/,10337,"6'2""",226,Ball State,2022,NA,NA,Bears
+James Skalski,LB,Colts,TRUE,2022,3,2560000,853333,https://overthecap.com/player/james-skalski/10369/,10369,"6'0""",228,Clemson,2022,NA,NA,Colts
+Silas Kelly,LB,Browns,TRUE,2022,3,2560000,853333,https://overthecap.com/player/silas-kelly/10375/,10375,"6'3""",229,Coastal Carolina,2022,NA,NA,Browns
+Tyreek Maddox-Williams,LB,Chargers,TRUE,2022,3,2560000,853333,https://overthecap.com/player/tyreek-maddox-williams/10583/,10583,"6'0""",228,Rutgers,2022,NA,NA,Chargers
+Diego Fagot,LB,Ravens,TRUE,2022,3,2560000,853333,https://overthecap.com/player/diego-fagot/10795/,10795,"6'3""",240,Navy,2022,NA,NA,Ravens
+Jake Hansen,LB,Texans,TRUE,2022,3,2560000,853333,https://overthecap.com/player/jake-hansen/10428/,10428,"6'1""",239,Illinois,2022,NA,NA,Texans
+Bryce Notree,LB,Commanders,TRUE,2022,3,2560000,853333,https://overthecap.com/player/bryce-notree/10791/,10791,"6'3""",233,Southern Illinois,2022,NA,NA,Commanders
+William Kwenkeu,LB,Vikings,TRUE,2022,3,2560000,853333,https://overthecap.com/player/william-kwenkeu/10778/,10778,"6'1""",221,Temple,2022,NA,NA,Vikings
+Mike Rose,LB,Chiefs,TRUE,2022,3,2560000,853333,https://overthecap.com/player/mike-rose/10448/,10448,"6'4""",243,Iowa State,2022,NA,NA,Chiefs
+Jake Hummel,LB,Rams,TRUE,2022,3,2560000,853333,https://overthecap.com/player/jake-hummel/10773/,10773,"6'2""",225,Iowa State,2022,NA,NA,Rams
+Sterling Weatherford,LB,Colts,TRUE,2022,3,2560000,853333,https://overthecap.com/player/sterling-weatherford/10491/,10491,"6'4""",224,Miami (OH),2022,NA,NA,Colts
+De'Jon Harris,LB,Commanders,TRUE,2021,2,1485000,742500,https://overthecap.com/player/dejon-harris/9274/,9274,"6'0""",234,Arkansas,2020,NA,NA,Patriots
+Andrew Dowell,LB,Saints,TRUE,2021,2,1485000,742500,https://overthecap.com/player/andrew-dowell/8450/,8450,"6'1""",225,Michigan State,2019,NA,NA,Cowboys
+Christian Rozeboom,LB,Rams,TRUE,2021,2,1485000,742500,https://overthecap.com/player/christian-rozeboom/9225/,9225,"6'2""",230,South Dakota State,2020,NA,NA,Rams
+Keandre Jones,LB,Bengals,TRUE,2021,2,1485000,742500,https://overthecap.com/player/keandre-jones/9419/,9419,"6'3""",220,Maryland,2020,NA,NA,Bears
+Milo Eifler,LB,Commanders,TRUE,2022,1,825000,825000,https://overthecap.com/player/milo-eifler/9744/,9744,"6'2""",225,Illinois,2021,NA,NA,Jets
+Anthony Pittman,LB,Lions,TRUE,2022,1,825000,825000,https://overthecap.com/player/anthony-pittman/8288/,8288,"6'3""",240,Wayne State,2019,NA,NA,Lions
+Jonas Griffith,LB,Broncos,TRUE,2022,1,825000,825000,https://overthecap.com/player/jonas-griffith/9173/,9173,"6'4""",250,Indiana State,2020,NA,NA,NA
+Jon Rhattigan,LB,Seahawks,TRUE,2022,1,825000,825000,https://overthecap.com/player/jon-rhattigan/9970/,9970,"6'1""",245,Army,2021,NA,NA,Seahawks
+Curtis Robinson,LB,49ers,TRUE,2022,1,825000,825000,https://overthecap.com/player/curtis-robinson/9804/,9804,"6'3""",235,Stanford,2021,NA,NA,Broncos
+Clay Johnston,LB,Bengals,TRUE,2022,1,825000,825000,https://overthecap.com/player/clay-johnston/8974/,8974,"6'1""",232,Baylor,2020,7,234,Rams
+Willie Harvey,LB,Browns,TRUE,2022,1,825000,825000,https://overthecap.com/player/willie-harvey/8498/,8498,"6'0""",224,Iowa State,2019,NA,NA,Browns
+Ladarius Hamilton,LB,Packers,TRUE,2022,1,825000,825000,https://overthecap.com/player/ladarius-hamilton/9339/,9339,"6'3""",260,North Texas,2020,NA,NA,Cowboys
+Rashad Smith,LB,Falcons,TRUE,2022,1,825000,825000,https://overthecap.com/player/rashad-smith/9416/,9416,"6'1""",220,FAU,2020,NA,NA,Bears
+Dorian Etheridge,LB,Falcons,TRUE,2022,1,825000,825000,https://overthecap.com/player/dorian-etheridge/9916/,9916,"6'3""",230,Louisville,2021,NA,NA,Falcons
+Cam Gill,LB,Buccaneers,TRUE,2020,3,2310000,770000,https://overthecap.com/player/cam-gill/9184/,9184,"6'3""",240,Wagner,2020,NA,NA,Buccaneers
+Blake Lynch,LB,Vikings,TRUE,2020,3,2285000,761667,https://overthecap.com/player/blake-lynch/9165/,9165,"6'3""",225,Baylor,2020,NA,NA,Vikings
+Ben Burr-Kirven,LB,Seahawks,TRUE,2019,4,2862920,715730,https://overthecap.com/player/ben-burr-kirven/7933/,7933,"6'0""",221,Washington,2019,5,142,Seahawks
+Ryan Connelly,LB,NYG/MIN,TRUE,2019,4,2856176,714044,https://overthecap.com/player/ryan-connelly/7934/,7934,"6'3""",237,Wisconsin,2019,5,143,Giants
+JaCoby Stevens,LB,Eagles,TRUE,2022,2,1575000,787500,https://overthecap.com/player/jacoby-stevens/9688/,9688,"6'2""",230,LSU,2021,6,224,Eagles
+Christian Elliss,LB,Eagles,TRUE,2022,2,1575000,787500,https://overthecap.com/player/christian-elliss/9907/,9907,"6'3""",233,Idaho,2021,NA,NA,Vikings
+Dre Greenlaw,LB,49ers,TRUE,2019,4,2841712,710428,https://overthecap.com/player/dre-greenlaw/7939/,7939,"6'0""",227,Arkansas,2019,5,148,NA
+Mack Wilson,LB,NE/CLE,TRUE,2019,4,2828804,707201,https://overthecap.com/player/mack-wilson/7946/,7946,"6'2""",239,Alabama,2019,5,155,Browns
+Blake Cashman,LB,HOU/NYJ,TRUE,2019,4,2824252,706063,https://overthecap.com/player/blake-cashman/7948/,7948,"6'2""",235,Minnesota,2019,5,157,Jets
+E.J. Speed,LB,Colts,TRUE,2019,4,2809396,702349,https://overthecap.com/player/e-j-speed/7955/,7955,"6'4""",230,Tarleton State,2019,5,164,Colts
+Cole Holcomb,LB,Commanders,TRUE,2019,4,2754884,688721,https://overthecap.com/player/cole-holcomb/7964/,7964,"6'1""",235,North Carolina,2019,5,173,Commanders
+Luiji Vilain,LB,Vikings,TRUE,2022,3,2580000,760000,https://overthecap.com/player/luiji-vilain/10747/,10747,"6'4""",252,Wake Forest,2022,NA,NA,Vikings
+David Long Jr.,LB,Titans,TRUE,2019,4,2690372,672593,https://overthecap.com/player/david-long-jr/7979/,7979,"5'11""",221,West Virginia,2019,6,188,Titans
+Ulysees Gilbert III,LB,Steelers,TRUE,2019,4,2647840,661960,https://overthecap.com/player/ulysees-gilbert-iii/7998/,7998,"6'1""",230,Akron,2019,6,207,Steelers
+Ty Summers,LB,Packers,TRUE,2019,4,2617904,654476,https://overthecap.com/player/ty-summers/8017/,8017,"6'2""",235,TCU,2019,7,226,Packers
+Kaden Elliss,LB,Saints,TRUE,2019,4,2596604,649151,https://overthecap.com/player/kaden-elliss/8035/,8035,"6'3""",240,Idaho,2019,7,244,Saints
+Lakiem Williams,LB,Seahawks,TRUE,2022,1,705000,705000,https://overthecap.com/player/lakiem-williams/10022/,10022,"6'0""",225,Syracuse,2021,NA,NA,Seahawks
+Aaron Donkor,LB,Seahawks,TRUE,2022,1,705000,705000,https://overthecap.com/player/aaron-donkor/9985/,9985,"6'2""",NA,NA,2021,NA,NA,Seahawks
+Anthony Hines III,LB,Rams,TRUE,2022,1,705000,705000,https://overthecap.com/player/anthony-hines-iii/9848/,9848,"6'3""",226,Texas A&M,2021,NA,NA,Cowboys
+Natrez Patrick,LB,Lions,TRUE,2022,1,0,0,https://overthecap.com/player/natrez-patrick/8481/,8481,"6'3""",238,Georgia,2019,NA,NA,Rams
+Kenny Young,LB,Raiders,TRUE,2022,1,0,0,https://overthecap.com/player/kenny-young/7007/,7007,"6'1""",235,UCLA,2018,4,122,Ravens
+Vince Biegel,LB,Ravens,TRUE,2022,1,0,0,https://overthecap.com/player/vince-biegel/5694/,5694,"6'3""",246,Wisconsin,2017,4,108,Packers
