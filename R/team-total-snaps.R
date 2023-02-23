@@ -12,13 +12,13 @@ library(tidyverse)
 
 
 
-Offense_pass = pbp %>% 
+Offense_pass = pbp %>%
   select(OffensiveTeam, EventType) %>%
   filter(EventType == "pass") %>%
   group_by(OffensiveTeam) %>%
   summarize(TotalPasses = n())
 
-Offense_run = pbp %>% 
+Offense_run = pbp %>%
   select(OffensiveTeam, EventType) %>%
   filter(EventType == "rush") %>%
   group_by(OffensiveTeam) %>%
@@ -30,8 +30,10 @@ OffensiveEvents = cbind(Offense_pass, Offense_run, passers, blockers, rushers)
 OffensiveEvents = OffensiveEvents[!duplicated(as.list(OffensiveEvents))]
 
 
-Offense_freq = OffensiveEvents %>% 
-  mutate(Passer_snap = Passer/TotalPasses,
-         RunBlock_snap = RunBlock/TotalRush,
-         RunPass_snap = PassBlock/TotalPasses,
-         Rusher_snap = Rusher/TotalRush)
+OffStrength = OffensiveEvents %>%
+  mutate(PasserStrength = Passer/TotalPasses,
+         RunBlockStrength = RunBlock/TotalRush,
+         PassBlockStrength = PassBlock/TotalPasses,
+         RusherStrength = Rusher/TotalRush) %>%
+  select(OffensiveTeam, PasserStrength, RusherStrength,
+         PassBlockStrength, RunBlockStrength)

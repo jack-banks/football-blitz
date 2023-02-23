@@ -1,0 +1,148 @@
+---
+title: "Modeling"
+author: "Jack Banks"
+date: "2023-02-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+```{r}
+# libraries and functions
+library(tidyverse)
+library(ggplot2)
+
+source("R/validate-pressure.R")
+source("R/validate-sack.R")
+```
+
+```{r}
+# data
+data = read_csv("data/pressure-model.csv")
+
+data_scaled = {
+  data %>% 
+    mutate(PasserStrength = scale(PasserStrength)[,1],
+           BlockerStrength = scale(BlockerStrength)[,1],
+           DefenderStrength = scale(DefenderStrength)[,1])
+}
+```
+
+# Let's fit some models!!!
+
+## Pressure
+
+```{r}
+# formula
+fm = "Pressure ~ . - ID - Sack - Formation - EPA"
+```
+
+```{r}
+m1 = validate_Pressure(fm, "glm", data)
+
+m2 = validate_Pressure(fm, "lda", data)
+
+m3 = validate_Pressure(fm, "qda", data)
+
+m4 = validate_Pressure(fm, "naiveBayes", data)
+
+m5 = validate_Pressure(fm, "knn", data, knn_k = 10)
+
+m6 = validate_Pressure(fm, "knn", data, knn_k = 10,
+              scaled = TRUE)
+
+m7 = validate_Pressure(fm, "knn", data, knn_k = 20)
+
+m8 = validate_Pressure(fm, "knn", data, knn_k = 20,
+              scaled = TRUE)
+
+m9 = validate_Pressure(fm, "randomForest", data, rf_ntree = 250)
+
+m10 = validate_Pressure(fm, "randomForest", data,
+               rf_ntree = 250, scaled = TRUE)
+
+m11 = validate_Pressure(fm, "randomForest", data, rf_ntree = 500)
+
+m12 = validate_Pressure(fm, "randomForest", data,
+               rf_ntree = 500, scaled = TRUE)
+```
+
+```{r}
+models_Pressure = list(m1, m2, m3, m4, m5, m6,
+                       m7, m8, m9, m10, m11, m12)
+```
+
+
+```{r}
+results_Pressure = data.frame(id = 1:12,
+                     engine = rep(NA, 12),
+                     scaled = c(rep("No", 4), rep(c("No", "Yes"), 4)),
+                     acc = rep(NA, 12),
+                     brier = rep(NA, 12),
+                     auc = rep(NA, 12))
+
+for(i in 1:12) {
+  results_Pressure$engine[i] = get(paste0("m",as.character(i)))$engine
+  results_Pressure$brier[i] = get(paste0("m",as.character(i)))$brier
+  results_Pressure$acc[i] = get(paste0("m",as.character(i)))$acc
+  results_Pressure$auc[i] = get(paste0("m",as.character(i)))$auc
+}
+
+save(models_Pressure, results_Pressure, file = "Pressure.Rdata")
+```
+
+## Sack
+
+```{r}
+# formula
+fm = "Sack ~ . - ID - Sack - Formation - EPA"
+```
+
+```{r}
+m1 = validate_Sack(fm, "glm", data)
+
+m2 = validate_Sack(fm, "lda", data)
+
+m3 = validate_Sack(fm, "qda", data)
+
+m4 = validate_Sack(fm, "naiveBayes", data)
+
+m5 = validate_Sack(fm, "knn", data, knn_k = 10)
+
+m6 = validate_Sack(fm, "knn", data, knn_k = 10,
+              scaled = TRUE)
+
+m7 = validate_Sack(fm, "knn", data, knn_k = 20)
+
+m8 = validate_Sack(fm, "knn", data, knn_k = 20,
+              scaled = TRUE)
+
+m9 = validate_Sack(fm, "randomForest", data, rf_ntree = 250)
+
+m10 = validate_Sack(fm, "randomForest", data,
+               rf_ntree = 250, scaled = TRUE)
+
+m11 = validate_Sack(fm, "randomForest", data, rf_ntree = 500)
+
+m12 = validate_Sack(fm, "randomForest", data,
+               rf_ntree = 500, scaled = TRUE)
+```
+
+```{r}
+results_Sack = data.frame(id = 1:12,
+                     engine = rep(NA, 12),
+                     scaled = c(rep("No", 4), rep(c("No", "Yes"), 4)),
+                     acc = rep(NA, 12),
+                     brier = rep(NA, 12),
+                     auc = rep(NA, 12))
+
+for(i in 1:6) {
+  results_Sack$engine[i] = get(paste0("m",as.character(i)))$engine
+  results_Sack$brier[i] = get(paste0("m",as.character(i)))$brier
+  results_Sack$acc[i] = get(paste0("m",as.character(i)))$acc
+  results_Sack$auc[i] = get(paste0("m",as.character(i)))$auc
+}
+```
+

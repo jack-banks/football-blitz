@@ -1,0 +1,168 @@
+---
+title: "Modeling"
+author: "Jack Banks"
+date: "2023-02-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+```{r}
+# libraries and functions
+library(tidyverse)
+library(ggplot2)
+
+source("R/validate-rush.R")
+```
+
+# Rushers
+
+```{r}
+# data
+data = read_csv("data/rush-model.csv") %>% 
+  rename(OffensiveYardage = OffensiveYardarge) %>% drop_na()
+
+data_scaled = {
+  data %>% 
+    mutate(RusherStrength = scale(RusherStrength)[,1],
+           BlockerStrength = scale(BlockerStrength)[,1],
+           DefenderStrength = scale(DefenderStrength)[,1])
+}
+```
+
+# Let's fit some models!!!
+
+```{r}
+# formula
+fm = "EPA ~ . - ID - Formation - OffensiveYardage"
+```
+
+```{r}
+m1 = validate_Rush(fm, "lm", data)
+
+# for bic
+m_full = lm(as.formula(fm), data)
+bic = stats::step(m_full, direction = "both", trace = 0,
+                     scope = . ~ .^2, k = log(nrow(data)))
+fm_bic = as.character(bic$call)[2]
+
+m2 = validate(fm_bic, "lm", data)
+
+m3 = validate_Rush(fm, "randomForest", data, n_tree = 250)
+
+m4 = validate_Rush(fm, "randomForest", data, n_tree = 250,
+                   scaled = TRUE)
+
+m5 = validate_Rush(fm, "randomForest", data, n_tree = 500)
+
+m6 = validate_Rush(fm, "randomForest", data, n_tree = 500,
+                   scaled = TRUE)
+
+m7 = validate_Rush(fm, "knn", data, knn_k = 20)
+
+m8 = validate_Rush(fm, "knn", data, knn_k = 20,
+                   scaled = TRUE)
+
+m9 = validate_Rush(fm, "knn", data, knn_k = 40)
+
+m10 = validate_Rush(fm, "knn", data, knn_k = 40,
+                   scaled = TRUE)
+
+m11 = validate_Rush(fm, "bagging", data)
+
+m12 = validate_Rush(fm, "gbm", data)
+
+```
+
+
+
+```{r}
+results_Rush = data.frame(id = 1:12,
+                     engine = rep(NA, 12),
+                     scaled = c(rep("No", 2), rep(c("No", "Yes"), 4),
+                                rep("No", 2)),
+                     rmse = rep(NA, 12)))
+
+for(i in 1:12) {
+  results_Rush$engine[i] = get(paste0("m",as.character(i)))$engine
+  results_Rush$rmse[i] = get(paste0("m",as.character(i)))$rmse
+}
+```
+
+# Scramblers
+
+```{r}
+# data
+data = read_csv("data/scramble-model.csv") %>% 
+  rename(OffensiveYardage = OffensiveYardarge) %>% drop_na()
+
+data_scaled = {
+  data %>% 
+    mutate(ScramblerStrength = scale(RusherStrength)[,1],
+           BlockerStrength = scale(BlockerStrength)[,1],
+           DefenderStrength = scale(DefenderStrength)[,1])
+}
+```
+
+# Let's fit some models!!!
+
+```{r}
+# formula
+fm = "EPA ~ . - ID - Formation - OffensiveYardage"
+```
+
+```{r}
+m1 = validate_Rush(fm, "lm", data)
+
+# for bic
+m_full = lm(as.formula(fm), data)
+bic = stats::step(m_full, direction = "both", trace = 0,
+                     scope = . ~ .^2, k = log(nrow(data)))
+fm_bic = as.character(bic$call)[2]
+
+m2 = validate(fm_bic, "lm", data)
+
+m3 = validate_Rush(fm, "randomForest", data, n_tree = 250)
+
+m4 = validate_Rush(fm, "randomForest", data, n_tree = 250,
+                   scaled = TRUE)
+
+m5 = validate_Rush(fm, "randomForest", data, n_tree = 500)
+
+m6 = validate_Rush(fm, "randomForest", data, n_tree = 500,
+                   scaled = TRUE)
+
+m7 = validate_Rush(fm, "knn", data, knn_k = 20)
+
+m8 = validate_Rush(fm, "knn", data, knn_k = 20,
+                   scaled = TRUE)
+
+m9 = validate_Rush(fm, "knn", data, knn_k = 40)
+
+m10 = validate_Rush(fm, "knn", data, knn_k = 40,
+                   scaled = TRUE)
+
+m11 = validate_Rush(fm, "bagging", data)
+
+m12 = validate_Rush(fm, "gbm", data)
+
+```
+
+
+
+```{r}
+results_Scramble = data.frame(id = 1:12,
+                     engine = rep(NA, 12),
+                     scaled = c(rep("No", 2), rep(c("No", "Yes"), 4),
+                                rep("No", 2)),
+                     rmse = rep(NA, 12)))
+
+for(i in 1:12) {
+  results_Scramble$engine[i] = get(paste0("m",as.character(i)))$engine
+  results_Scramble$rmse[i] = get(paste0("m",as.character(i)))$rmse
+}
+```
+
+
